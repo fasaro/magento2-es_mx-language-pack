@@ -45,7 +45,7 @@ php bin/magento maintenance:disable
 **Como activar el paquete en Español**
 
 Como activar el paquete de idioma español para su tienda Magento 2. Desde el panel de administración de Magento 2 
-     Stores > Configuration > General > Locale Options > Locale > Español (Mexico)
+  →   Stores > Configuration > General > Locale Options > Locale > Español (Mexico)
 
 
 
@@ -97,4 +97,4 @@ php bin/magento maintenance:disable
 **How to Activate Spanish Language Pack**
 
 Now time to active the Spanish language pack for your Magento 2 store. From Magento 2 admin panel, navigate to 
-     Stores > Configuration > General > Locale Options > Locale > Español (Mexico)
+  →   Stores > Configuration > General > Locale Options > Locale > Español (Mexico)
