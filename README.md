@@ -7,7 +7,7 @@ Magento 2 platform approves multiple languages around the world, so **Magento 2 
 **Install Spanish pack**:
 
 ```
-composer require fasaro/magento2-es_MX-language-pack dev-master
+composer require fasaro/magento2-es_mx-language-pack dev-master
 php bin/magento setup:static-content:deploy es_MX
 php bin/magento cache:flush
 
@@ -17,7 +17,7 @@ php bin/magento cache:flush
 **Update  Spanish pack**:
 
 ```
-composer update fasaro/magento2-es_MX-language-pack dev-master
+composer update fasaro/magento2-es_mx-language-pack dev-master
 php bin/magento setup:static-content:deploy es_MX
 php bin/magento cache:flush
 
