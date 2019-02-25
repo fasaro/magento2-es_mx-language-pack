@@ -42,7 +42,7 @@ php bin/magento cache:flush
 php bin/magento maintenance:disable
 
 ```
-**Como activar el paquete en Español**Cómo activar el paquete de idioma español.
+**Como activar el paquete en Español**
 
 Como activar el paquete de idioma español para su tienda Magento 2. Desde el panel de administración de Magento 2 
 Stores > Configuration > General > Locale Options > Locale > Español (Mexico)
