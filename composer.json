@@ -1,19 +1,17 @@
 {
     "name": "fasaro/magento2-es_mx-language-pack",
     "description": "Spanish (Mexico) language package for Magento 2",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": [
         "MIT"
     ],
     "require": {
         "magento/framework": "*"
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "type": "magento2-language",
     "autoload": {
-        "files": [
-            "registration.php"
-        ]
+      "files": [
+        "registration.php"
+      ]
     }
- }
+}
