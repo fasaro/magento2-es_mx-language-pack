@@ -6,7 +6,7 @@
         "MIT"
     ],
     "require": {
-        "magento/framework": "~100|~101"
+        "magento/framework": "101.0.*|102.*.*"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
