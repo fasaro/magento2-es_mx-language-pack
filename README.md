@@ -14,6 +14,8 @@ paquete de idioma
      En Crowdin: lleva tiempo aprobar su contribución del equipo de Magento.
      En Github: es más rápido, nuestro equipo lo aprobará después de que envíe la solicitud de extracción.
 
+**Compatibilidad**
+Magento CE 2.1.x, 2.2.x
 
 Instalar el paquete de idioma español a través del compositor (recomendable)
 
@@ -65,6 +67,8 @@ It is not fully translated? Feel free to contribute:
     On Crowdin: It takes time to approve your contribution by Magento team.
     On Github: It's faster, our team will approve it after you send pull request.
 
+**Compatibility**
+Magento CE 2.1.x, 2.2.x
 
 Install the Spanish language pack via composer (recommended)
 
