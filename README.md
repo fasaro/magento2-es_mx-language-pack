@@ -15,7 +15,7 @@ paquete de idioma
      En Github: es más rápido, nuestro equipo lo aprobará después de que envíe la solicitud de extracción.
 
 **Compatibilidad**
-Magento CE 2.1.x, 2.2.x
+Magento CE 2.1.x, 2.2.x, 2.3.x
 
 Instalar el paquete de idioma español a través del compositor (recomendable)
 
@@ -68,7 +68,7 @@ It is not fully translated? Feel free to contribute:
     On Github: It's faster, our team will approve it after you send pull request.
 
 **Compatibility**
-Magento CE 2.1.x, 2.2.x
+Magento CE 2.1.x, 2.2.x, 2.3.x
 
 Install the Spanish language pack via composer (recommended)
 
