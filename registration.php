@@ -1,6 +1,6 @@
 <?php
 /**
- * Magento 2 Spanish (Spain) language pack
+ * Magento 2 Spanish (Mexico) language pack
  *
  * @category   Language
  * @package    es_MX
