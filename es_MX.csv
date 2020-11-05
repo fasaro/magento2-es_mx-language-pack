@@ -839,7 +839,7 @@ Show Selected Option Swatch in Cart and Checkout,Mostrar muestra de opción sele
 SKU,SKU,module,Amasty_Conf 
 SKU Dom-Selector,SKU Dom-Selector,module,Amasty_Conf 
 Slide,Diapositiva,module,Amasty_Conf 
-Something went wrong while saving the group.,Algo salió mal al salvar al grupo.,module,Amasty_Conf 
+Something went wrong while saving the group.,Algo salió mal al guardar al grupo.,module,Amasty_Conf 
 Sort Option,Opción de clasificación,module,Amasty_Conf 
 Specify child product SKU,Especificar producto SKU,module,Amasty_Conf 
 Status,Estado,module,Amasty_Conf 
@@ -1092,7 +1092,7 @@ Reset,Reiniciar,module,Amasty_ElasticSearch
 Romaji,Romaji,module,Amasty_ElasticSearch 
 Rule,Regla,module,Amasty_ElasticSearch 
 Rule won't work if no conditions are applied,La regla no funcionará si no se aplican condiciones,module,Amasty_ElasticSearch 
-Save,Salvar,module,Amasty_ElasticSearch 
+Save,Guardar,module,Amasty_ElasticSearch 
 Search,Buscar,module,Amasty_ElasticSearch 
 Search Engine,Buscador,module,Amasty_ElasticSearch 
 Search Query Settings,Configuración de consulta de búsqueda,module,Amasty_ElasticSearch 
@@ -1354,7 +1354,7 @@ Right,Derecho,module,Amasty_Faq
 Roadside Assistance,Asistencia en carretera,module,Amasty_Faq 
 "route name, for example {base_store_url}/{URL prefix}/{question_url_key)","nombre de ruta, por ejemplo {base_store_url}/{URL prefix}/{question_url_key)",module,Amasty_Faq 
 Sales,Ventas,module,Amasty_Faq 
-Save,Salvar,module,Amasty_Faq 
+Save,Guardar,module,Amasty_Faq 
 Save and Continue Edit,Guardar y continuar Editar,module,Amasty_Faq 
 Save and Send email to Customer,Guardar y enviar correo electrónico al cliente,module,Amasty_Faq 
 Search,Buscar,module,Amasty_Faq 
@@ -2263,7 +2263,7 @@ Rule Information,Información de la regla,module,Amasty_Mostviewed
 Rule Name,Nombre de la regla,module,Amasty_Mostviewed 
 Rule Type,Tipo de regla,module,Amasty_Mostviewed 
 same as Current Product ,igual que el producto actual,module,Amasty_Mostviewed 
-Save,Salvar,module,Amasty_Mostviewed 
+Save,Guardar,module,Amasty_Mostviewed 
 Save and Continue Edit,Guardar y continuar Editar,module,Amasty_Mostviewed 
 Select Categories,Seleccionar categorías,module,Amasty_Mostviewed 
 Select the position to display the Bundle Packs Promo at the Product Page.,Seleccione la posición para mostrar la promoción de paquetes de paquetes en la página del producto.,module,Amasty_Mostviewed 
@@ -3070,7 +3070,7 @@ RMA Statuses,Estados RMA,module,Amasty_Rma
 Rule Name,Nombre de la regla,module,Amasty_Rma 
 "Rule with specified ID ""%1"" not found.","Regla con ID especificado ""%1"" no encontrado.",module,Amasty_Rma 
 Sale attributes,Atributos de venta,module,Amasty_Rma 
-Save,Salvar,module,Amasty_Rma 
+Save,Guardar,module,Amasty_Rma 
 Save and Continue Edit,Guardar y continuar Editar,module,Amasty_Rma 
 Save Item Condition,Guardar condición del artículo,module,Amasty_Rma 
 Save Reason,Guardar razón,module,Amasty_Rma 
@@ -3585,7 +3585,7 @@ Sidebar,Barra lateral,module,Amasty_Shopby
 Slider,Control deslizante,module,Amasty_Shopby 
 Slider Step,Paso deslizante,module,Amasty_Shopby 
 Something went wrong during rendering of navigation filters. Please try again later.,"Algo salió mal durante la representación de los filtros de navegación. Por favor, inténtelo de nuevo más tarde.",module,Amasty_Shopby 
-Something went wrong while saving the group.,Algo salió mal al salvar al grupo.,module,Amasty_Shopby 
+Something went wrong while saving the group.,Algo salió mal al guardar al grupo.,module,Amasty_Shopby 
 Sort Option,Opción de clasificación,module,Amasty_Shopby 
 Sort Options By,Ordenar opciones por,module,Amasty_Shopby 
 Specify the max level number for category tree. Keep 1 to hide the subcategories,Especifique el número de nivel máximo para el árbol de categorías. Mantenga 1 para ocultar las subcategorías.,module,Amasty_Shopby 
@@ -22670,7 +22670,7 @@ Restrict Rating for,Restringir calificación para,module,Mageplaza_Blog
 Reverse time,Tiempo inverso,module,Mageplaza_Blog 
 Right,Derecha,module,Mageplaza_Blog 
 Route Name,Nombre de ruta,module,Mageplaza_Blog 
-Save,Salvar,module,Mageplaza_Blog 
+Save,Guardar,module,Mageplaza_Blog 
 Save And Continue Edit,Guardar y continuar Editar,module,Mageplaza_Blog 
 Save and Continue Edit,Guardar y continuar Editar,module,Mageplaza_Blog 
 Save as Draft,Guardar como borrador,module,Mageplaza_Blog 
@@ -22703,7 +22703,7 @@ Sku,Sku,module,Mageplaza_Blog
 Slider,Control deslizante,module,Mageplaza_Blog 
 Social,Social,module,Mageplaza_Blog 
 Social Sharing,Compartiendo socialmente,module,Mageplaza_Blog 
-Something went wrong while saving the Author.,Algo salió mal al salvar al autor.,module,Mageplaza_Blog 
+Something went wrong while saving the Author.,Algo salió mal al guardar al autor.,module,Mageplaza_Blog 
 Something went wrong while saving the category.,Algo salió mal al guardar la categoría.,module,Mageplaza_Blog 
 Something went wrong while saving the Comment.,Algo salió mal al guardar el comentario.,module,Mageplaza_Blog 
 Something went wrong while saving the Post History.,Se produjo un error al guardar el historial de publicaciones.,module,Mageplaza_Blog 
@@ -22800,7 +22800,7 @@ Yes,si,module,Mageplaza_Blog
 You can not delete this author. This is the author of %1 post(s),No puedes eliminar a este autor. Este es el autor de %1 post (s),module,Mageplaza_Blog 
 You have deleted %1 successful.,Has eliminado %1 con éxito.,module,Mageplaza_Blog 
 You have imported %1 %2 successful. Skipped %3 %2.,Has importado %1 %2 con éxito. Saltado %3 %2.,module,Mageplaza_Blog 
-You have replaced and updated %1 %2 successful. Skipped %3 %2.,Has reemplazado y actualizado %1 %2 con éxito. Saltado %3 % 2.,module,Mageplaza_Blog 
+You have replaced and updated %1 %2 successful. Skipped %3 %2.,Has reemplazado y actualizado %1 %2 con éxito. Saltado %3  %2.,module,Mageplaza_Blog 
 You moved the Blog category,Moviste la categoría Blog,module,Mageplaza_Blog 
 You saved the Blog Category.,Guardaste la categoría del blog.,module,Mageplaza_Blog 
 You saved the category.,Guardaste la categoría.,module,Mageplaza_Blog 
@@ -25583,3 +25583,146 @@ Incoming Shipment Id,ID de envío entrante,module,Webkul_PurchaseManagement
 Add Supplier,Agregar proveedor,module,Webkul_PurchaseManagement 
 Do you want to delete selected Supplier?,¿Quiere eliminar el proveedor seleccionado?,module,Webkul_PurchaseManagement 
 Id,Id,module,Webkul_PurchaseManagement 
+New Custom Attribute,Nuevo atributo personalizado,module,Webkul_CustomRegistration 
+This attribute no longer exists.,Este atributo ya no existe.,module,Webkul_CustomRegistration 
+This attribute cannot be edited.,Este atributo no se puede editar.,module,Webkul_CustomRegistration 
+Manage Fields,Administrar campos,module,Webkul_CustomRegistration 
+A total of %1 record(s) have been deleted.,Se ha eliminado un total de %1 registro (s).,module,Webkul_CustomRegistration 
+"Attribute name '%1' is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","El nombre de atributo '%1' no es válido. Utilice solo letras (a-z), números (0-9) o guión bajo (_) en este campo, el primer carácter debe ser una letra.",module,Webkul_CustomRegistration 
+Attribute code '%1' is already exists.,El código de atributo '%1' ya existe.,module,Webkul_CustomRegistration 
+You saved the custom attribute.,Guardaste el atributo personalizado.,module,Webkul_CustomRegistration 
+An attribute with this code already exists.,Ya existe un atributo con este código.,module,Webkul_CustomRegistration 
+An attribute with the same code (%1) already exists.,Ya existe un atributo con el mismo código (%1).,module,Webkul_CustomRegistration 
+An dependable attribute with this code already exists.,Ya existe un atributo confiable con este código.,module,Webkul_CustomRegistration 
+An dependable attribute with the same code (%1) already exists.,Ya existe un atributo confiable con el mismo código (%1).,module,Webkul_CustomRegistration 
+A total of %1 record(s) have been updated.,Se ha actualizado un total de %1 registro (s).,module,Webkul_CustomRegistration 
+Additional Information,Información Adicional,module,Webkul_CustomRegistration 
+Customer additional information saved successfully.,Información adicional del cliente guardada correctamente.,module,Webkul_CustomRegistration 
+Edit,Editar,module,Webkul_CustomRegistration 
+Disable,Inhabilitar,module,Webkul_CustomRegistration 
+Enable,Habilitar,module,Webkul_CustomRegistration 
+Are you sure you wan't to disable?,¿Estás seguro de que no quieres desactivarlo?,module,Webkul_CustomRegistration 
+Are you sure you wan't to delete?,¿Estas seguro que quieres borrarlo?,module,Webkul_CustomRegistration 
+Manage Display Fields,Administrar campos de visualización,module,Webkul_CustomRegistration 
+Display In Order,Mostrar en orden,module,Webkul_CustomRegistration 
+Hide From Order,Ocultar del pedido,module,Webkul_CustomRegistration 
+Display In Email,Mostrar en correo electrónico,module,Webkul_CustomRegistration 
+Hide From Email,Ocultar del correo electrónico,module,Webkul_CustomRegistration 
+Attribute Id,ID de atributo,module,Webkul_CustomRegistration 
+Attribute Code,Código de atributo,module,Webkul_CustomRegistration 
+Attribute Label,Etiqueta de atributo,module,Webkul_CustomRegistration 
+Show in Order,Mostrar en orden,module,Webkul_CustomRegistration 
+Show in Email,Mostrar en correo electrónico,module,Webkul_CustomRegistration 
+Status,Estado,module,Webkul_CustomRegistration 
+Allowed Extension,Extensión permitida,module,Webkul_CustomRegistration 
+Dependable Allowed Extension,Extensión permitida confiable,module,Webkul_CustomRegistration 
+Manage Options (values of your attribute),Administrar opciones (valores de su atributo),module,Webkul_CustomRegistration 
+Add Option,Agregar opción,module,Webkul_CustomRegistration 
+Delete,Eliminar,module,Webkul_CustomRegistration 
+* Required Fields,* Campos requeridos,module,Webkul_CustomRegistration 
+Additional Information,Información Adicional,module,Webkul_CustomRegistration 
+Save and Continue Edit,Guardar y continuar editar,module,Webkul_CustomRegistration 
+Save Attribute,Guardar atributo,module,Webkul_CustomRegistration 
+Delete Attribute,Eliminar atributo,module,Webkul_CustomRegistration 
+"Edit Customer Attribute %1""""","Editar atributo de cliente %1 """"",module,Webkul_CustomRegistration 
+Attribute Properties,Propiedades de atributo,module,Webkul_CustomRegistration 
+Default label,Etiqueta predeterminada,module,Webkul_CustomRegistration 
+Make sure you don't use spaces or more than %1 characters.,Asegúrese de no utilizar espacios ni más de %1 caracteres.,module,Webkul_CustomRegistration 
+Input Type for Store Owner,Tipo de entrada para el propietario de la tienda,module,Webkul_CustomRegistration 
+Values Required,Valores requeridos,module,Webkul_CustomRegistration 
+Input Validation for Store Owner,Validación de entrada para el propietario de la tienda,module,Webkul_CustomRegistration 
+Input Field Sort Order,Orden de clasificación del campo de entrada,module,Webkul_CustomRegistration 
+Display Fields in Form,Mostrar campos en formulario,module,Webkul_CustomRegistration 
+Admin Customer Form,Formulario de cliente administrador,module,Webkul_CustomRegistration 
+"Customer Account""","Cuenta de cliente""",module,Webkul_CustomRegistration 
+Registration Form,Formulario de inscripción,module,Webkul_CustomRegistration 
+Dependable Fields Properties,Propiedades de campos confiables,module,Webkul_CustomRegistration 
+This is used internally. Make sure you don't use spaces or more than %1 characters.,Esto se usa internamente. Asegúrese de no utilizar espacios ni más de %1 caracteres.,module,Webkul_CustomRegistration 
+Media Image,Imagen multimedia,module,Webkul_CustomRegistration 
+File,Archivo,module,Webkul_CustomRegistration 
+Dependable,Confiable,module,Webkul_CustomRegistration 
+Radio,Radio,module,Webkul_CustomRegistration 
+Gallery,Galería,module,Webkul_CustomRegistration 
+Attribute Information,Información de atributos,module,Webkul_CustomRegistration 
+Properties,Propiedades,module,Webkul_CustomRegistration 
+Please select item(s).,Seleccione el (los) artículo (s).,module,Webkul_CustomRegistration 
+Customregistration,Registro personalizado,module,Webkul_CustomRegistration 
+Manage Custom Fields,Administrar campos personalizados,module,Webkul_CustomRegistration 
+Edit Product Attribute,Editar atributo del producto,module,Webkul_CustomRegistration 
+" Dependable Attribute name ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter."," El nombre de atributo confiable ""%1"" no es válido. Utilice solo letras (a-z), números (0-9) o guión bajo (_) en este campo, el primer carácter debe ser una letra.",module,Webkul_CustomRegistration 
+"Attribute code ""%1"" is already exists.","El código de atributo ""%1"" ya existe.",module,Webkul_CustomRegistration 
+Something went wrong while saving file.,Se produjo un error al guardar el archivo.,module,Webkul_CustomRegistration 
+Please Fill all the Required Fields.,Complete todos los campos obligatorios.,module,Webkul_CustomRegistration 
+Page not found.,Página no encontrada.,module,Webkul_CustomRegistration 
+Text,Texto,module,Webkul_CustomRegistration 
+HTML,HTML,module,Webkul_CustomRegistration 
+Text Area,Área de texto,module,Webkul_CustomRegistration 
+Date,Fecha,module,Webkul_CustomRegistration 
+Dropdown,Desplegable,module,Webkul_CustomRegistration 
+Multiple Select,Selección múltiple,module,Webkul_CustomRegistration 
+Radio Button,Boton de radio,module,Webkul_CustomRegistration 
+Dependable Field,Campo confiable,module,Webkul_CustomRegistration 
+Check Terms and Conditions & Privacy & Cookie Policy.,Consulte los Términos y condiciones y la Política de privacidad y cookies.,module,Webkul_CustomRegistration 
+Custom Registration Fields,Campos de registro personalizados,module,Webkul_CustomRegistration 
+Sort Option,Opción de clasificación,module,Webkul_CustomRegistration 
+Order & Account Information,Información de pedido y cuenta,module,Webkul_CustomRegistration 
+The order confirmation email was sent,Se envió el correo electrónico de confirmación del pedido.,module,Webkul_CustomRegistration 
+The order confirmation email is not sent,No se envía el correo electrónico de confirmación del pedido,module,Webkul_CustomRegistration 
+Order # %1,Pedido n.º %1,module,Webkul_CustomRegistration 
+Order Date,Fecha de orden,module,Webkul_CustomRegistration 
+Order Date (%1),Fecha de pedido (%1),module,Webkul_CustomRegistration 
+Order Status,Estado del pedido,module,Webkul_CustomRegistration 
+Purchased From,Comprado de,module,Webkul_CustomRegistration 
+Link to the New Order,Enlace al nuevo pedido,module,Webkul_CustomRegistration 
+Link to the Previous Order,Enlace al pedido anterior,module,Webkul_CustomRegistration 
+Placed from IP,Colocado desde IP,module,Webkul_CustomRegistration 
+%1 / %2 rate:,Tasa %1 / %2:,module,Webkul_CustomRegistration 
+Account Information,Información de la cuenta,module,Webkul_CustomRegistration 
+Customer Name,Nombre del cliente,module,Webkul_CustomRegistration 
+Email,Correo electrónico,module,Webkul_CustomRegistration 
+Customer Group,grupo de clientes,module,Webkul_CustomRegistration 
+Download,Descargar,module,Webkul_CustomRegistration 
+Address Information,Datos del Domicilio,module,Webkul_CustomRegistration 
+Billing Address,Dirección de Envio,module,Webkul_CustomRegistration 
+Shipping Address,Dirección de Envío,module,Webkul_CustomRegistration 
+Terms & Conditions ,Términos y condiciones,module,Webkul_CustomRegistration 
+and,y,module,Webkul_CustomRegistration 
+My Attribute,Mi atributo,module,Webkul_CustomRegistration 
+label,etiqueta,module,Webkul_CustomRegistration 
+Preview Image,Imagen de vista previa,module,Webkul_CustomRegistration 
+Items,Artículos,module,Webkul_CustomRegistration 
+Qty,Cant.,module,Webkul_CustomRegistration 
+Price,Precio,module,Webkul_CustomRegistration 
+Gift Message for this Order,Mensaje de regalo para este pedido,module,Webkul_CustomRegistration 
+From:,Desde:,module,Webkul_CustomRegistration 
+To:,A:,module,Webkul_CustomRegistration 
+Message:,Mensaje:,module,Webkul_CustomRegistration 
+Customer Registration,Registro de cliente,module,Webkul_CustomRegistration 
+Terms & Conditions and Privacy Setting,Términos y condiciones y configuración de privacidad,module,Webkul_CustomRegistration 
+Enable Terms and Conditions on Registration Page,Habilitar los términos y condiciones en la página de registro,module,Webkul_CustomRegistration 
+Privacy Popup Model Heading,Encabezado del modelo emergente de privacidad,module,Webkul_CustomRegistration 
+Term and Condition Popup Model Heading,Título del modelo emergente de término y condición,module,Webkul_CustomRegistration 
+Model Button Text,Texto del botón de modelo,module,Webkul_CustomRegistration 
+Button Text Color,Color del texto del botón,module,Webkul_CustomRegistration 
+"Save hexa code e.g: #FFFFFF, leave blank for default","Guarde el código hexa, por ejemplo: #FFFFFF, déjelo en blanco por defecto",module,Webkul_CustomRegistration 
+Model Button Color,Modelo Color del botón,module,Webkul_CustomRegistration 
+Model Header Background Color,Color de fondo del encabezado del modelo,module,Webkul_CustomRegistration 
+Model Background Color,Color de fondo del modelo,module,Webkul_CustomRegistration 
+Model Animation Type,Tipo de animación de modelo,module,Webkul_CustomRegistration 
+Show Content as,Mostrar contenido como,module,Webkul_CustomRegistration 
+Terms & Conditions,Términos y condiciones,module,Webkul_CustomRegistration 
+Privacy & Cookie Policy,Política de privacidad y cookies,module,Webkul_CustomRegistration 
+Enable/Disable Address Information,Activar / desactivar información de dirección,module,Webkul_CustomRegistration 
+Enable Address Fields,Habilitar campos de dirección,module,Webkul_CustomRegistration 
+Add New Field,Agregar nuevo campo,module,Webkul_CustomRegistration 
+ID,ID,module,Webkul_CustomRegistration 
+Show in Transactional Email,Mostrar en correo electrónico transaccional,module,Webkul_CustomRegistration 
+Additional Account Information,Información adicional de la cuenta,module,Webkul_CustomRegistration 
+Invalid File Extension. Allowed extensions are %1,Extensión de archivo inválida. Las extensiones permitidas son %1,module,Webkul_CustomRegistration 
+%1' is not a valid file.,%1 'no es un archivo válido.,module,Webkul_CustomRegistration 
+No Additional Account Information,Sin información adicional de la cuenta,module,Webkul_CustomRegistration 
+Manage Labels,Administrar etiquetas,module,Webkul_CustomRegistration 
+Custom Registration Settings,Configuración de registro personalizada,module,Webkul_CustomRegistration 
+Confirm,Confirmar,module,Webkul_CustomRegistration 
+Are you sure you wan't to enable?,¿Estás seguro de que no quieres habilitarlo?,module,Webkul_CustomRegistration 
+$_FILES array is empty.,La matriz $ _FILES está vacía.,module,Webkul_CustomRegistration 
