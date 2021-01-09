@@ -647,6 +647,187 @@ Type,Tipo,module,Algolia_AlgoliaSearch
 Update product on category products update,Actualizar producto en la categoría de actualización de productos,module,Algolia_AlgoliaSearch
 Width,Anchura,module,Algolia_AlgoliaSearch
 You can try one of the popular search queries,Puedes probar una de las consultas de búsqueda más populares,module,Algolia_AlgoliaSearch
+"
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widge","
+                    Tiempo en segundos entre las actualizaciones del widget.
+                    <br/> Si no se establece, equivale a 86400 segundos (24 horas). Para actualizar el widget al instante, vaya a Administración de caché y borre la caché de salida HTML de Bloques.
+                    <br/> El widget no mostrará productos que comiencen a coincidir con las condiciones especificadas hasta que se actualice la caché.
+                ",module,Amasty_Amp 
+ (Excl. tax: , (Sin impuestos:,module,Amasty_Amp 
+\nThe current version of Magento is not supported. The AMP extension is designed only for Magento versions starting with 2.3 and higher.\nPlease contact Amasty Support Team to get information about the custom solutions or please update Magento to 2.3 or h,\ nLa versión actual de Magento no es compatible. La extensión AMP está diseñada solo para las versiones de Magento a partir de la 2.3 y superior. \ NPonte en contacto con el equipo de soporte de Amasty para obtener información sobre las soluciones personalizadas o actualiza Magento a 2.3 o superior. \ N,module,Amasty_Amp 
+%1 %2,%1 %2,module,Amasty_Amp 
+%1 has been added to your Wish List.,Se ha añadido %1 a su Lista de deseos.,module,Amasty_Amp 
+%1 Item,%1 articulo,module,Amasty_Amp 
+%1 Item(s),%1 artículo (s),module,Amasty_Amp 
+Account,Cuenta,module,Amasty_Amp 
+Add to Cart,Añadir al carrito,module,Amasty_Amp 
+Add to Wish List,Añadir a la lista de deseos,module,Amasty_Amp 
+Adding ...,Añadiendo ...,module,Amasty_Amp 
+Advanced Search,Búsqueda Avanzada,module,Amasty_Amp 
+All products,Todos los productos,module,Amasty_Amp 
+"All products - recently added products, New products - products marked as new","Todos los productos: productos añadidos recientemente, productos nuevos: productos marcados como nuevos",module,Amasty_Amp 
+"Allowed file types: jpeg, png. Maximum file size: 2MB","Tipos de archivos permitidos: jpeg, png. Tamaño máximo de archivo: 2 MB",module,Amasty_Amp 
+Always,Siempre,module,Amasty_Amp 
+Amasty Amp Catalog Category Link,Enlace de categoría del catálogo de amplificadores Amasty,module,Amasty_Amp 
+Amasty Amp Catalog New Products List,Lista de productos nuevos del catálogo de amplificadores Amasty,module,Amasty_Amp 
+Amasty Amp Catalog Product Link,Enlace de producto del catálogo de amplificadores Amasty,module,Amasty_Amp 
+Amasty Amp Catalog Products List,Lista de productos del catálogo Amasty Amp,module,Amasty_Amp 
+Amasty Amp CMS Page Link,Enlace a la página de Amasty Amp CMS,module,Amasty_Amp 
+AMP,AMPERIO,module,Amasty_Amp 
+AMP Content,Contenido de AMP,module,Amasty_Amp 
+AMP Design,Diseño AMP,module,Amasty_Amp 
+Anchor Custom Text,Ancla de texto personalizado,module,Amasty_Amp 
+Anchor Custom Title,Título personalizado de ancla,module,Amasty_Amp 
+Apply,Aplicar,module,Amasty_Amp 
+Apply filters,Aplicar filtros,module,Amasty_Amp 
+Availability,Disponibilidad,module,Amasty_Amp 
+Button Background Color,Color de fondo del botón,module,Amasty_Amp 
+Button Background Color (On Focus),Color de fondo del botón (en foco),module,Amasty_Amp 
+Button Text Color,Color del texto del botón,module,Amasty_Amp 
+Button Text Color (On Focus),Color del texto del botón (en foco),module,Amasty_Amp 
+Cache Lifetime (Seconds),Duración de la caché (segundos),module,Amasty_Amp 
+Category,Categoría,module,Amasty_Amp 
+Category Image,Imagen de categoría,module,Amasty_Amp 
+Category Link Block Template,Plantilla de bloque de enlace de categoría,module,Amasty_Amp 
+Category Link Inline Template,Plantilla en línea de vínculo de categoría,module,Amasty_Amp 
+Center,Centrar,module,Amasty_Amp 
+Choose an Option...,Elige una opcion...,module,Amasty_Amp 
+Clear,Claro,module,Amasty_Amp 
+Clear all filters,Borrar todos los filtros,module,Amasty_Amp 
+close menu,cerrar menú,module,Amasty_Amp 
+close sidebar,cerrar barra lateral,module,Amasty_Amp 
+CMS Page,Página CMS,module,Amasty_Amp 
+Cms Page Link Block Template,Plantilla de bloque de enlace de página Cms,module,Amasty_Amp 
+Cms Page Link Inline Template,Plantilla en línea de enlace de página Cms,module,Amasty_Amp 
+Collapse,Colapso,module,Amasty_Amp 
+Conditions,Condiciones,module,Amasty_Amp 
+Contact Us,Contáctenos,module,Amasty_Amp 
+Create an Account,Crea una cuenta,module,Amasty_Amp 
+Currency,Moneda,module,Amasty_Amp 
+Customize and Add to Cart,Personalizar y agregar al carrito,module,Amasty_Amp 
+Design,Diseño,module,Amasty_Amp 
+Details,Detalles,module,Amasty_Amp 
+Display Type,Tipo de visualización,module,Amasty_Amp 
+Download sample of product,Descargar muestra de producto,module,Amasty_Amp 
+Enable AMP for Category Pages,Habilitar AMP para páginas de categorías,module,Amasty_Amp 
+Enable AMP for CMS Pages,Habilitar AMP para páginas CMS,module,Amasty_Amp 
+Enable AMP for Home Page,Habilitar AMP para la página de inicio,module,Amasty_Amp 
+Enable AMP for Product Pages,Habilitar AMP para páginas de productos,module,Amasty_Amp 
+Enter your email address,Ingrese su dirección de correo electrónico,module,Amasty_Amp 
+File validation failed.,Validación de archivo fallida.,module,Amasty_Amp 
+Filter by %1,Filtrar por %1,module,Amasty_Amp 
+Filters,Filtros,module,Amasty_Amp 
+Footer Background Color,Color de fondo del pie de página,module,Amasty_Amp 
+From AMP Google results only,Solo de los resultados de Google AMP,module,Amasty_Amp 
+General,General,module,Amasty_Amp 
+Go to first page,Ir a la primera pagina,module,Amasty_Amp 
+Go to next page,Ir a la página siguiente,module,Amasty_Amp 
+Go to page number %1,Ir a la página número %1,module,Amasty_Amp 
+Go to previous page,Regresar a la pagina anterior,module,Amasty_Amp 
+Go to the last page,Ir a la última página,module,Amasty_Amp 
+Go to top of the page,Ir al inicio de la página,module,Amasty_Amp 
+Grid,Cuadrícula,module,Amasty_Amp 
+Header Background Color,Color de fondo del encabezado,module,Amasty_Amp 
+Height,Altura,module,Amasty_Amp 
+Hide,Esconder,module,Amasty_Amp 
+"If empty, the Page Title will be used","Si está vacío, se utilizará el título de la página",module,Amasty_Amp 
+"If empty, we'll use the category name here.","Si está vacío, usaremos el nombre de la categoría aquí.",module,Amasty_Amp 
+"If empty, we'll use the product name here.","Si está vacío, usaremos el nombre del producto aquí.",module,Amasty_Amp 
+Image,Imagen,module,Amasty_Amp 
+Information,Información,module,Amasty_Amp 
+Invalid argument. Argument is not URL.,Argumento no válido. El argumento no es una URL.,module,Amasty_Amp 
+Items %1 to %2 of %3 total,Elementos %1 a %2 de %3 en total,module,Amasty_Amp 
+Language,Idioma,module,Amasty_Amp 
+Left,Izquierda,module,Amasty_Amp 
+Link Color,Color de enlace,module,Amasty_Amp 
+Link Color (On Focus),Color de enlace (en foco),module,Amasty_Amp 
+Link to a CMS Page,Enlace a una página de CMS,module,Amasty_Amp 
+Link to a Specified Category,Enlace a una categoría especificada,module,Amasty_Amp 
+Link to a Specified Product,Enlace a un producto especificado,module,Amasty_Amp 
+List,Lista,module,Amasty_Amp 
+List of pages,Lista de paginas,module,Amasty_Amp 
+List of Products,Lista de productos,module,Amasty_Amp 
+List of Products that are set as New,Lista de productos que se establecen como nuevos,module,Amasty_Amp 
+Logo,Logo,module,Amasty_Amp 
+Logo Alignment,Alineación del logotipo,module,Amasty_Amp 
+main product photo,foto principal del producto,module,Amasty_Amp 
+Maximum characters %1,Caracteres máximos %1,module,Amasty_Amp 
+Maximum height is 60px.,La altura máxima es de 60 px.,module,Amasty_Amp 
+Maximum width is 180px.,El ancho máximo es 180px.,module,Amasty_Amp 
+Menu,Menú,module,Amasty_Amp 
+More Information,Más información,module,Amasty_Amp 
+My Account,Mi cuenta,module,Amasty_Amp 
+My Wish List,Mi lista de deseos,module,Amasty_Amp 
+New products,Nuevos productos,module,Amasty_Amp 
+Nickname,Apodo,module,Amasty_Amp 
+No options of this product are available.,No hay opciones disponibles para este producto.,module,Amasty_Amp 
+Number of Products to Display,Número de productos para mostrar,module,Amasty_Amp 
+"Only registered users can write reviews. 
+                Please <a class=""amamp-link"" href=""%1"">Sign in</a> or <a class=""amamp-link"" href=""%2"">create an account
+                </a>","Solo los usuarios registrados pueden escribir reseñas.
+                <a class=""amamp-link"" href=""%1""> Inicie sesión </a> o <a class=""amamp-link"" href=""%2""> cree un cuenta
+                </a> ",module,Amasty_Amp 
+Open Accelerated Mobile Pages,Abrir páginas móviles aceleradas,module,Amasty_Amp 
+Open cart page,Abrir la página del carrito,module,Amasty_Amp 
+Open filters sidebar,Abrir barra lateral de filtros,module,Amasty_Amp 
+open menu,menú abierto,module,Amasty_Amp 
+open review list,lista de revisión abierta,module,Amasty_Amp 
+Open search pop up,Abrir ventana emergente de búsqueda,module,Amasty_Amp 
+Open shopping cart,Abrir carrito de compras,module,Amasty_Amp 
+Out of stock,Agotado,module,Amasty_Amp 
+Overview,Visión general,module,Amasty_Amp 
+Please Select,Por favor seleccione,module,Amasty_Amp 
+Please update Amasty Base module. Re-upload it and replace all the files.,Actualice el módulo Base de Amasty. Vuelva a cargarlo y reemplace todos los archivos.,module,Amasty_Amp 
+"Privacy and Cookie Policy
+                                ","Política de privacidad y cookies
+                                ",module,Amasty_Amp 
+Product,Producto,module,Amasty_Amp 
+Product Link Block Template,Plantilla de bloque de enlaces de productos,module,Amasty_Amp 
+Product Link Inline Template,Plantilla en línea de enlaces de productos,module,Amasty_Amp 
+Product Name,nombre del producto,module,Amasty_Amp 
+product photo,foto del producto,module,Amasty_Amp 
+Qty,Cant.,module,Amasty_Amp 
+Related Products,Productos relacionados,module,Amasty_Amp 
+Remove filter by %1 ,Quitar filtro en %1,module,Amasty_Amp 
+Reset,Reiniciar,module,Amasty_Amp 
+Review,revisión,module,Amasty_Amp 
+Reviews,Reseñas,module,Amasty_Amp 
+Right,Correcto,module,Amasty_Amp 
+sample,muestra,module,Amasty_Amp 
+Search,Buscar,module,Amasty_Amp 
+Search entire store here ...,Busca la tienda entera aquí ...,module,Amasty_Amp 
+Search Terms,Términos de búsqueda,module,Amasty_Amp 
+See Details,Ver detalles,module,Amasty_Amp 
+See more,Ver más,module,Amasty_Amp 
+Select Category...,Selecciona una categoría...,module,Amasty_Amp 
+Select Page...,Seleccionar página ...,module,Amasty_Amp 
+Select Product...,Seleccionar producto...,module,Amasty_Amp 
+Set Qty,Establecer cantidad,module,Amasty_Amp 
+Settings,Configuraciones,module,Amasty_Amp 
+Share your thoughts with other customers,Comparte tus ideas con otros clientes,module,Amasty_Amp 
+shopping cart,carrito de compras,module,Amasty_Amp 
+Slider,Deslizador,module,Amasty_Amp 
+Sorting by %1,Ordenar por %1,module,Amasty_Amp 
+Sorting products by,Clasificación de productos por,module,Amasty_Amp 
+Submit Review,Enviar opinión,module,Amasty_Amp 
+Subscribe,Suscribir,module,Amasty_Amp 
+Subscription,Suscripción,module,Amasty_Amp 
+Summary,Resumen,module,Amasty_Amp 
+Template,Modelo,module,Amasty_Amp 
+The image uploaded into categoryâ€™s configuration will be resized accordingly.,La imagen cargada en la configuración de la categoría cambiará de tamaño en consecuencia.,module,Amasty_Amp 
+There are no filter options to apply on this page.,No hay opciones de filtro para aplicar en esta página.,module,Amasty_Amp 
+Title,Título,module,Amasty_Amp 
+View All %1,Ver todo %1,module,Amasty_Amp 
+We can't find products matching the selection.,No podemos encontrar productos que coincidan con la selección.,module,Amasty_Amp 
+We found other products you might like!,¡Encontramos otros productos que te pueden gustar!,module,Amasty_Amp 
+"We recommend using the 3rd-party library to improve the mobile detection algorithm. Please, run the following command in the SSH: composer require mobiledetect/mobiledetectlib",Recomendamos utilizar la biblioteca de terceros para mejorar el algoritmo de detección de dispositivos móviles. Ejecute el siguiente comando en SSH: composer require mobiledetect / mobiledetectlib,module,Amasty_Amp 
+"Welcome, %1!","¡Bienvenido, %1!",module,Amasty_Amp 
+Width,Anchura,module,Amasty_Amp 
+Write a review,Escribe una reseña,module,Amasty_Amp 
+You added %1 to your,Agregaste %1 a tu,module,Amasty_Amp 
+You're reviewing:,Estás revisando:,module,Amasty_Amp 
  by ,  por,module,Amasty_Base 
 <b>Allowed errors limit is reached.</b>,<b> Se ha alcanzado el límite de errores permitidos. </b>,module,Amasty_Base 
 10 days,10 días,module,Amasty_Base 
@@ -2721,7 +2902,6 @@ Your subscription details are listed below.,Los detalles de su suscripción se e
 Your subscription has been canceled.,Su suscripción ha sido cancelada.,module,Amasty_RecurringPayments 
 Your subscription has been paused.,Su suscripción ha sido pausada.,module,Amasty_RecurringPayments 
 "Your trial is ending soon. Cancel your subscription if you don't need the product and don't want to be charged for it. If you want to keep your subscription active, ignore this email and do nothing. Your subscription details are listed below.","Tu prueba terminará pronto. Cancele su suscripción si no necesita el producto y no desea que se le cobre. Si desea mantener su suscripción activa, ignore este correo electrónico y no haga nada. Los detalles de su suscripción se enumeran a continuación.",module,Amasty_RecurringPayments 
-This is a test payment for authorization purposes to verify the validity of the card. Refund is issued immediately but its processing may take some time.,Este es un pago de prueba para fines de autorización para verificar la validez de la tarjeta. El reembolso se emite de inmediato, pero su procesamiento puede llevar algún tiempo.,Amasty_RecurringStripe 
 "<strong>Important</strong>: Webhook Secret can be generated only after you fill in Publishable Key and Secret Key and save these settings by pressing the ""Save Config"" button.","<strong> Importante </strong>: Webhook Secret se puede generar solo después de completar la clave publicable y la clave secreta y guardar esta configuración presionando el botón ""Guardar configuración"".",module,Amasty_RecurringStripe 
 Active,Activo,module,Amasty_RecurringStripe 
 Canceled,Cancelado,module,Amasty_RecurringStripe 
@@ -2736,6 +2916,7 @@ Stripe,Stripe,module,Amasty_RecurringStripe
 Stripe payment method is not configured,El método de pago de Stripe no está configurado,module,Amasty_RecurringStripe 
 Stripe payment method is not enabled,El método de pago de Stripe no está habilitado,module,Amasty_RecurringStripe 
 "Stripe Product with specified ID ""%1"" not found.","Producto de la raya con ID especificado ""%1"" no encontrado.",module,Amasty_RecurringStripe 
+This is a test payment for authorization purposes to verify the validity of the card. Refund is issued immediately but its processing may take some time.,Este es un pago de prueba para fines de autorización para verificar la validez de la tarjeta. El reembolso se emite de inmediato, pero su procesamiento puede llevar algún tiempo.,Amasty_RecurringStripe 
 Trial,Prueba,module,Amasty_RecurringStripe 
 Unable to remove stripeProduct with ID %1. Error: %2,No se puede eliminar stripeProduct con ID %1. Error: %2,module,Amasty_RecurringStripe 
 Unable to remove stripeProduct. Error: %1,No se puede eliminar stripeProduct. Error: %1,module,Amasty_RecurringStripe 
@@ -3001,6 +3182,7 @@ Please Select Resolution for,Seleccione resolución para,module,Amasty_Rma
 "Please, put each new email address on a new line","Por favor, ponga cada nueva dirección de correo electrónico en una nueva línea",module,Amasty_Rma 
 "Please, select the CMS page with your Return Policy text.",Seleccione la página CMS con el texto de su Política de devoluciones.,module,Amasty_Rma 
 Position,Posición,module,Amasty_Rma 
+Print Packing Slip,Imprimir etiquetas,module,Amasty_Rma 
 Priority,Prioridad,module,Amasty_Rma 
 Processed by admins,Procesado por administradores,module,Amasty_Rma 
 Processing,Procesando,module,Amasty_Rma 
@@ -3195,7 +3377,6 @@ You have placed no return request.,No ha realizado ninguna solicitud de devoluci
 You saved the item.,Guardaste el artículo.,module,Amasty_Rma 
 You saved the return request.,Guardaste la solicitud de devolución.,module,Amasty_Rma 
 You should pay for Shipping.,Debe pagar el envío.,module,Amasty_Rma 
-Print Packing Slip,Imprimir etiquetas,module,Amasty_Rma 
 Additional Links,Enlaces Adicionales,module,Amasty_SeoHtmlSitemap 
 Categories,Categorías,module,Amasty_SeoHtmlSitemap 
 CMS Pages,Páginas de CMS,module,Amasty_SeoHtmlSitemap 
@@ -24789,6 +24970,8 @@ Your order %1 has been successfully generated.,Su pedido con el numero %1 fue ge
 "Your payment was rejected.<br/>Choose another payment method, we recommend cash methods.","Tu pago fue rechazado.<br/>Elige otro de los medios de pago, te recomendamos con medios de pago en efectivo.",module,MercadoPago_Core
 Your user e-mail does not exist. Please check data and retry later," ""Tu dirección de e-mail no existe. Por favor verifique los datos ingresados y vuelva a intentarlo.""",module,MercadoPago_Core
 * Uppon payment approval.,* Mediante la aprobación de pago.,module,MercadoPago_Core 
+#N/D,#N/D,module,MercadoPago_Core 
+#N/D,#N/D,module,MercadoPago_Core 
 %1 did not process the payment.,%1 no procesó el pago.,module,MercadoPago_Core 
 %1 does not process payments in %2 installments.,%1 no procesa pagos en %2 mensualidades.,module,MercadoPago_Core 
 <br/> Payment id: %1,<br/> Número de Pago: %1,module,MercadoPago_Core 
@@ -24799,8 +24982,8 @@ Address,Dirrección,module,MercadoPago_Core
 Address required,Obligatorio completar la dirrección,module,MercadoPago_Core 
 Advanced,Avanzado,module,MercadoPago_Core 
 Already posted the same request in the last minute.," ""El mismo request ya fue enviado en el último minuto""",module,MercadoPago_Core 
-Already posted the same request in the last minute.,Realizaste un pago similar hace instantes. Intenta nuevamente en unos minutos.,module,MercadoPago_Core 
 Already posted the same request in the last minute.," ""Realizaste un pago similar hace instantes. Intenta nuevamente en unos minutos.""",module,MercadoPago_Core 
+Already posted the same request in the last minute.,Realizaste un pago similar hace instantes. Intenta nuevamente en unos minutos.,module,MercadoPago_Core 
 Amount discount is invalid," ""El monto de descuento no es válido""",module,MercadoPago_Core 
 Amount exceeded limit campaign," ""La campaña ya superó el límite de descuentos.""",module,MercadoPago_Core 
 "An error has occurred, please try again. If the error persists, please contact the seller."," ""Ha ocurrido un error. Por favor intente otra vez. Si el error persiste",module,MercadoPago_Core 
@@ -24901,8 +25084,6 @@ Enabled,Habilitado,module,MercadoPago_Core
 Enabled,Habilitado,module,MercadoPago_Core 
 Enabling this option will show the discount coupon amount in the order details,Si habilitas esta opción se mostrará el monto del cupón de descuento en el detalle de la orden,module,MercadoPago_Core 
 ended in,finalizado en,module,MercadoPago_Core 
-#N/D,#N/D,module,MercadoPago_Core 
-#N/D,#N/D,module,MercadoPago_Core 
 Error on process of payment data. Please contact the administrator.," ""Error al procesar los datos de pago.""",module,MercadoPago_Core 
 Exceeded number of coupons," ""La campaña ya superó el límite de cupones de descuentos.""",module,MercadoPago_Core 
 Exclude Payment Methods,Excluir métodos de pago,module,MercadoPago_Core 
@@ -25017,9 +25198,9 @@ Payment canceled.," ""Pago Cancelado.""",module,MercadoPago_Core
 Payment id (Mercado Pago),Número de Pago (Mercado Pago),module,MercadoPago_Core 
 Payment id (Mercado Pago): %1,Número de Pago (Mercado Pago): %1,module,MercadoPago_Core 
 Payment information," ""Información de pago""",module,MercadoPago_Core 
+Payment Method,Medio de pago,module,MercadoPago_Core 
+Payment Method,Medio de pago,module,MercadoPago_Core 
 Payment Method,Métodos de Pago,module,MercadoPago_Core 
-Payment Method,Medio de pago,module,MercadoPago_Core 
-Payment Method,Medio de pago,module,MercadoPago_Core 
 Payment method does not process installments.,El medio de pago no procesa pagos en mensualidades. Elige otra tarjeta u otro medio de pago.,module,MercadoPago_Core 
 Payment method or credit card invalid. Please check the form data and retry.," ""El método de pago o tarjeta de crédito son inválidos. Por favor verifique los datos ingresados y vuelva a intentarlo.""",module,MercadoPago_Core 
 Payment Method selected does not process payments for the selected amount. Choose another card or another payment method.,El medio de pago seleccionado no procesa pagos del monto seleccionado. Elige otro medio de pago.,module,MercadoPago_Core 
@@ -25143,8 +25324,8 @@ You must authorize to %1 the payment of $ %2 to Mercado Pago.,Debes llamar y aut
 You must provide your cardholder name with your card data," ""Debes ingresar el titular de la tarjeta""",module,MercadoPago_Core 
 You must provide your cardholder_name with your card data.," ""Por favor ingresa el nombre del dueño de la tarjeta""",module,MercadoPago_Core 
 You must provide your cardissuer_id with your card data.," ""Se debe proveer el cardissuer_id con la información de tarjeta""",module,MercadoPago_Core 
-You user cannot do payments currently,No puedes realizar pagos en este momento.,module,MercadoPago_Core 
 You user cannot do payments currently," ""No puedes realizar pagos en este momento.""",module,MercadoPago_Core 
+You user cannot do payments currently,No puedes realizar pagos en este momento.,module,MercadoPago_Core 
 You user cannot do payments currently with this payment method.,No puedes realizar pagos con este medio de pago en este momento.,module,MercadoPago_Core 
 You will save <b>%1 %2</b> with discount from %3.,Ahorrará <b>%1 %2</b> con un descuento de %3.,module,MercadoPago_Core 
 Your %1 do not have sufficient funds.,Tu %1 no tiene fondos suficientes.,module,MercadoPago_Core 
@@ -25178,6 +25359,18 @@ Specific Country,País específico,module,MercadoPago_MercadoEnvios
 Title,Titulo,module,MercadoPago_MercadoEnvios
 Weight,Ancho,module,MercadoPago_MercadoEnvios
 Width,Ancho,module,MercadoPago_MercadoEnvios
+Add To Cart,Añadir al carrito,module,Plumrocket_Amp 
+AMP Validation,Validación de AMP,module,Plumrocket_Amp 
+Ascending,Ascendente,module,Plumrocket_Amp 
+Choose options,Elegir opciones,module,Plumrocket_Amp 
+Descending,Descendiendo,module,Plumrocket_Amp 
+Loading Product Options,Cargando opciones de producto,module,Plumrocket_Amp 
+Open this CMS page in AMP validator,Abra esta página de CMS en el validador de AMP,module,Plumrocket_Amp 
+Please enter only the script used for the tag %1.,Introduzca solo la secuencia de comandos utilizada para la etiqueta %1.,module,Plumrocket_Amp 
+Previous,Anterior,module,Plumrocket_Amp 
+Share with friends,Compartir con amigos,module,Plumrocket_Amp 
+View All %1,Ver todo %1,module,Plumrocket_Amp 
+You can learn more about AMP HTML specification and text formatting %1here%2,Puede obtener más información sobre la especificación HTML de AMP y el formato de texto %1aquí %2,module,Plumrocket_Amp 
 A total of %1 record(s) have been deleted.,Se ha eliminado un total de %1 registros.,module,Smartwave_Dailydeals 
 An error occurred while deleting record(s).,Se produjo un error al eliminar el registro (s).,module,Smartwave_Dailydeals 
 Create New Dailydeal,Crear nuevo DailyDeal,module,Smartwave_Dailydeals 
@@ -25207,6 +25400,412 @@ The Dailydeal has been deleted.,El Dailydeal ha sido eliminado.,module,Smartwave
 The Dailydeal has been saved.,El Dailydeal se ha guardado.,module,Smartwave_Dailydeals 
 This Dailydeal no longer exists.,Este Dailydeal ya no existe.,module,Smartwave_Dailydeals 
 Site Maintenance ,Mantenimiento del sitio,module,Solwin_SiteMaintenance
+" Dependable Attribute name ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter."," El nombre de atributo confiable ""%1"" no es válido. Utilice solo letras (a-z), números (0-9) o guión bajo (_) en este campo, el primer carácter debe ser una letra.",module,Webkul_CustomRegistration 
+* Required Fields,* Campos requeridos,module,Webkul_CustomRegistration 
+%1 / %2 rate:,Tasa %1 / %2:,module,Webkul_CustomRegistration 
+%1' is not a valid file.,%1 'no es un archivo válido.,module,Webkul_CustomRegistration 
+$_FILES array is empty.,La matriz $_FILES está vacía.,module,Webkul_CustomRegistration 
+A total of %1 record(s) have been deleted.,Se ha eliminado un total de %1 registro (s).,module,Webkul_CustomRegistration 
+A total of %1 record(s) have been updated.,Se ha actualizado un total de %1 registro (s).,module,Webkul_CustomRegistration 
+Account Information,Información de la cuenta,module,Webkul_CustomRegistration 
+Add New Field,Agregar nuevo campo,module,Webkul_CustomRegistration 
+Add Option,Agregar opción,module,Webkul_CustomRegistration 
+Additional Account Information,Información adicional de la cuenta,module,Webkul_CustomRegistration 
+Additional Information,Información Adicional,module,Webkul_CustomRegistration 
+Additional Information,Información Adicional,module,Webkul_CustomRegistration 
+Address Information,Datos del Domicilio,module,Webkul_CustomRegistration 
+Admin Customer Form,Formulario de cliente administrador,module,Webkul_CustomRegistration 
+Allowed Extension,Extensión permitida,module,Webkul_CustomRegistration 
+An attribute with the same code (%1) already exists.,Ya existe un atributo con el mismo código (%1).,module,Webkul_CustomRegistration 
+An attribute with this code already exists.,Ya existe un atributo con este código.,module,Webkul_CustomRegistration 
+An dependable attribute with the same code (%1) already exists.,Ya existe un atributo confiable con el mismo código (%1).,module,Webkul_CustomRegistration 
+An dependable attribute with this code already exists.,Ya existe un atributo confiable con este código.,module,Webkul_CustomRegistration 
+and,y,module,Webkul_CustomRegistration 
+Are you sure you wan't to delete?,¿Estas seguro que quieres borrarlo?,module,Webkul_CustomRegistration 
+Are you sure you wan't to disable?,¿Estás seguro de que no quieres desactivarlo?,module,Webkul_CustomRegistration 
+Are you sure you wan't to enable?,¿Estás seguro de que no quieres habilitarlo?,module,Webkul_CustomRegistration 
+Attribute Code,Código de atributo,module,Webkul_CustomRegistration 
+Attribute code '%1' is already exists.,El código de atributo '%1' ya existe.,module,Webkul_CustomRegistration 
+"Attribute code ""%1"" is already exists.","El código de atributo ""%1"" ya existe.",module,Webkul_CustomRegistration 
+Attribute Id,ID de atributo,module,Webkul_CustomRegistration 
+Attribute Information,Información de atributos,module,Webkul_CustomRegistration 
+Attribute Label,Etiqueta de atributo,module,Webkul_CustomRegistration 
+"Attribute name '%1' is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","El nombre de atributo '%1' no es válido. Utilice solo letras (a-z), números (0-9) o guión bajo (_) en este campo, el primer carácter debe ser una letra.",module,Webkul_CustomRegistration 
+Attribute Properties,Propiedades de atributo,module,Webkul_CustomRegistration 
+Billing Address,Dirección de Envio,module,Webkul_CustomRegistration 
+Button Text Color,Color del texto del botón,module,Webkul_CustomRegistration 
+Check Terms and Conditions & Privacy & Cookie Policy.,Consulte los Términos y condiciones y la Política de privacidad y cookies.,module,Webkul_CustomRegistration 
+Confirm,Confirmar,module,Webkul_CustomRegistration 
+Custom Registration Fields,Campos de registro personalizados,module,Webkul_CustomRegistration 
+Custom Registration Settings,Configuración de registro personalizada,module,Webkul_CustomRegistration 
+"Customer Account""","Cuenta de cliente""",module,Webkul_CustomRegistration 
+Customer additional information saved successfully.,Información adicional del cliente guardada correctamente.,module,Webkul_CustomRegistration 
+Customer Group,grupo de clientes,module,Webkul_CustomRegistration 
+Customer Name,Nombre del cliente,module,Webkul_CustomRegistration 
+Customer Registration,Registro de cliente,module,Webkul_CustomRegistration 
+Customregistration,Registro personalizado,module,Webkul_CustomRegistration 
+Date,Fecha,module,Webkul_CustomRegistration 
+Default label,Etiqueta predeterminada,module,Webkul_CustomRegistration 
+Delete,Eliminar,module,Webkul_CustomRegistration 
+Delete Attribute,Eliminar atributo,module,Webkul_CustomRegistration 
+Dependable,Confiable,module,Webkul_CustomRegistration 
+Dependable Allowed Extension,Extensión permitida confiable,module,Webkul_CustomRegistration 
+Dependable Field,Campo confiable,module,Webkul_CustomRegistration 
+Dependable Fields Properties,Propiedades de campos confiables,module,Webkul_CustomRegistration 
+Disable,Inhabilitar,module,Webkul_CustomRegistration 
+Display Fields in Form,Mostrar campos en formulario,module,Webkul_CustomRegistration 
+Display In Email,Mostrar en correo electrónico,module,Webkul_CustomRegistration 
+Display In Order,Mostrar en orden,module,Webkul_CustomRegistration 
+Download,Descargar,module,Webkul_CustomRegistration 
+Dropdown,Desplegable,module,Webkul_CustomRegistration 
+Edit,Editar,module,Webkul_CustomRegistration 
+"Edit Customer Attribute %1""""","Editar atributo de cliente %1 """"",module,Webkul_CustomRegistration 
+Edit Product Attribute,Editar atributo del producto,module,Webkul_CustomRegistration 
+Email,Correo electrónico,module,Webkul_CustomRegistration 
+Enable,Habilitar,module,Webkul_CustomRegistration 
+Enable Address Fields,Habilitar campos de dirección,module,Webkul_CustomRegistration 
+Enable Terms and Conditions on Registration Page,Habilitar los términos y condiciones en la página de registro,module,Webkul_CustomRegistration 
+Enable/Disable Address Information,Activar / desactivar información de dirección,module,Webkul_CustomRegistration 
+File,Archivo,module,Webkul_CustomRegistration 
+From:,Desde:,module,Webkul_CustomRegistration 
+Gallery,Galería,module,Webkul_CustomRegistration 
+Gift Message for this Order,Mensaje de regalo para este pedido,module,Webkul_CustomRegistration 
+Hide From Email,Ocultar del correo electrónico,module,Webkul_CustomRegistration 
+Hide From Order,Ocultar del pedido,module,Webkul_CustomRegistration 
+HTML,HTML,module,Webkul_CustomRegistration 
+ID,ID,module,Webkul_CustomRegistration 
+Input Field Sort Order,Orden de clasificación del campo de entrada,module,Webkul_CustomRegistration 
+Input Type for Store Owner,Tipo de entrada para el propietario de la tienda,module,Webkul_CustomRegistration 
+Input Validation for Store Owner,Validación de entrada para el propietario de la tienda,module,Webkul_CustomRegistration 
+Invalid File Extension. Allowed extensions are %1,Extensión de archivo inválida. Las extensiones permitidas son %1,module,Webkul_CustomRegistration 
+Items,Artículos,module,Webkul_CustomRegistration 
+label,etiqueta,module,Webkul_CustomRegistration 
+Link to the New Order,Enlace al nuevo pedido,module,Webkul_CustomRegistration 
+Link to the Previous Order,Enlace al pedido anterior,module,Webkul_CustomRegistration 
+Make sure you don't use spaces or more than %1 characters.,Asegúrese de no utilizar espacios ni más de %1 caracteres.,module,Webkul_CustomRegistration 
+Manage Custom Fields,Administrar campos personalizados,module,Webkul_CustomRegistration 
+Manage Display Fields,Administrar campos de visualización,module,Webkul_CustomRegistration 
+Manage Fields,Administrar campos,module,Webkul_CustomRegistration 
+Manage Labels,Administrar etiquetas,module,Webkul_CustomRegistration 
+Manage Options (values of your attribute),Administrar opciones (valores de su atributo),module,Webkul_CustomRegistration 
+Media Image,Imagen multimedia,module,Webkul_CustomRegistration 
+Message:,Mensaje:,module,Webkul_CustomRegistration 
+Model Animation Type,Tipo de animación de modelo,module,Webkul_CustomRegistration 
+Model Background Color,Color de fondo del modelo,module,Webkul_CustomRegistration 
+Model Button Color,Modelo Color del botón,module,Webkul_CustomRegistration 
+Model Button Text,Texto del botón de modelo,module,Webkul_CustomRegistration 
+Model Header Background Color,Color de fondo del encabezado del modelo,module,Webkul_CustomRegistration 
+Multiple Select,Selección múltiple,module,Webkul_CustomRegistration 
+My Attribute,Mi atributo,module,Webkul_CustomRegistration 
+New Custom Attribute,Nuevo atributo personalizado,module,Webkul_CustomRegistration 
+No Additional Account Information,Sin información adicional de la cuenta,module,Webkul_CustomRegistration 
+Order & Account Information,Información de pedido y cuenta,module,Webkul_CustomRegistration 
+Order # %1,Pedido n.º %1,module,Webkul_CustomRegistration 
+Order Date,Fecha de orden,module,Webkul_CustomRegistration 
+Order Date (%1),Fecha de pedido (%1),module,Webkul_CustomRegistration 
+Order Status,Estado del pedido,module,Webkul_CustomRegistration 
+Page not found.,Página no encontrada.,module,Webkul_CustomRegistration 
+Placed from IP,Colocado desde IP,module,Webkul_CustomRegistration 
+Please Fill all the Required Fields.,Complete todos los campos obligatorios.,module,Webkul_CustomRegistration 
+Please select item(s).,Seleccione el (los) artículo (s).,module,Webkul_CustomRegistration 
+Preview Image,Imagen de vista previa,module,Webkul_CustomRegistration 
+Price,Precio,module,Webkul_CustomRegistration 
+Privacy & Cookie Policy,Política de privacidad y cookies,module,Webkul_CustomRegistration 
+Privacy Popup Model Heading,Encabezado del modelo emergente de privacidad,module,Webkul_CustomRegistration 
+Properties,Propiedades,module,Webkul_CustomRegistration 
+Purchased From,Comprado de,module,Webkul_CustomRegistration 
+Qty,Cant.,module,Webkul_CustomRegistration 
+Radio,Radio,module,Webkul_CustomRegistration 
+Radio Button,Boton de radio,module,Webkul_CustomRegistration 
+Registration Form,Formulario de inscripción,module,Webkul_CustomRegistration 
+Save and Continue Edit,Guardar y continuar editar,module,Webkul_CustomRegistration 
+Save Attribute,Guardar atributo,module,Webkul_CustomRegistration 
+"Save hexa code e.g: #FFFFFF, leave blank for default","Guarde el código hexa, por ejemplo: #FFFFFF, déjelo en blanco por defecto",module,Webkul_CustomRegistration 
+Shipping Address,Dirección de Envío,module,Webkul_CustomRegistration 
+Show Content as,Mostrar contenido como,module,Webkul_CustomRegistration 
+Show in Email,Mostrar en correo electrónico,module,Webkul_CustomRegistration 
+Show in Order,Mostrar en orden,module,Webkul_CustomRegistration 
+Show in Transactional Email,Mostrar en correo electrónico transaccional,module,Webkul_CustomRegistration 
+Something went wrong while saving file.,Se produjo un error al guardar el archivo.,module,Webkul_CustomRegistration 
+Sort Option,Opción de clasificación,module,Webkul_CustomRegistration 
+Status,Estado,module,Webkul_CustomRegistration 
+Term and Condition Popup Model Heading,Título del modelo emergente de término y condición,module,Webkul_CustomRegistration 
+Terms & Conditions,Términos y condiciones,module,Webkul_CustomRegistration 
+Terms & Conditions ,Términos y condiciones,module,Webkul_CustomRegistration 
+Terms & Conditions and Privacy Setting,Términos y condiciones y configuración de privacidad,module,Webkul_CustomRegistration 
+Text,Texto,module,Webkul_CustomRegistration 
+Text Area,Área de texto,module,Webkul_CustomRegistration 
+The order confirmation email is not sent,No se envía el correo electrónico de confirmación del pedido,module,Webkul_CustomRegistration 
+The order confirmation email was sent,Se envió el correo electrónico de confirmación del pedido.,module,Webkul_CustomRegistration 
+This attribute cannot be edited.,Este atributo no se puede editar.,module,Webkul_CustomRegistration 
+This attribute no longer exists.,Este atributo ya no existe.,module,Webkul_CustomRegistration 
+This is used internally. Make sure you don't use spaces or more than %1 characters.,Esto se usa internamente. Asegúrese de no utilizar espacios ni más de %1 caracteres.,module,Webkul_CustomRegistration 
+To:,A:,module,Webkul_CustomRegistration 
+Values Required,Valores requeridos,module,Webkul_CustomRegistration 
+You saved the custom attribute.,Guardaste el atributo personalizado.,module,Webkul_CustomRegistration 
+-- Please select --,- Seleccione -,module,Webkul_PurchaseManagement 
+%1 Quotation(s) cannot be Confirmed.,%1 Las cotizaciones no se pueden confirmar.,module,Webkul_PurchaseManagement 
+%1 Quotation(s) has been Confirmed Successfully.,%1 Las cotizaciones se han confirmado correctamente.,module,Webkul_PurchaseManagement 
+A new quoatation has been submitted.,Se ha enviado una nueva cotización.,module,Webkul_PurchaseManagement 
+A total of %1 record(s) have been deleted.,Se ha eliminado un total de %1 registro(s).,module,Webkul_PurchaseManagement 
+Action,Acción,module,Webkul_PurchaseManagement 
+"Action not allowed, the order %1 is already canceled","Acción no permitida, el pedido %1 ya está cancelado",module,Webkul_PurchaseManagement 
+"Action not allowed, the order is already canceled","Acción no permitida, el pedido ya está cancelado",module,Webkul_PurchaseManagement 
+Add New Attribute,Agregar nuevo atributo,module,Webkul_PurchaseManagement 
+Add New Supplier,Agregar nuevo proveedor,module,Webkul_PurchaseManagement 
+Add Option,Agregar opción,module,Webkul_PurchaseManagement 
+Add Order Comments,Agregar comentarios de pedido,module,Webkul_PurchaseManagement 
+Add Products,Agregar productos,module,Webkul_PurchaseManagement 
+Add Selected Product(s) to Quotation,Agregar producto(s) seleccionado(s) a cotización,module,Webkul_PurchaseManagement 
+Add Supplier,Agregar proveedor,module,Webkul_PurchaseManagement 
+Additional Attributes,Atributos adicionales,module,Webkul_PurchaseManagement 
+Attribute Code,Código de atributo,module,Webkul_PurchaseManagement 
+Attribute Label,Etiqueta de atributo,module,Webkul_PurchaseManagement 
+"Attribute name ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field,
+                     first character should be a letter.","El nombre de atributo ""%1"" no es válido. Utilice solo letras (a-z), números (0-9) o guión bajo (_) en este campo,
+                     el primer carácter debe ser una letra.",module,Webkul_PurchaseManagement 
+Attribute Type,Tipo de atributo,module,Webkul_PurchaseManagement 
+Automatic,Automático,module,Webkul_PurchaseManagement 
+Automatic Method,Método automático,module,Webkul_PurchaseManagement 
+Automatic(Magento will trigger a draft purchase order to buy the required quantities to the supplier),Automático (Magento activará un borrador de orden de compra para comprar las cantidades requeridas al proveedor),module,Webkul_PurchaseManagement 
+Back,Regresar,module,Webkul_PurchaseManagement 
+Base Price,Precio base,module,Webkul_PurchaseManagement 
+Cancel,Cancelar,module,Webkul_PurchaseManagement 
+Cancel Orders,Cancelar pedidos,module,Webkul_PurchaseManagement 
+Canceled,Cancelado,module,Webkul_PurchaseManagement 
+Cancelled,Cancelado,module,Webkul_PurchaseManagement 
+Change Supplier,Cambiar de proveedor,module,Webkul_PurchaseManagement 
+Choose Supplier,Elija proveedor,module,Webkul_PurchaseManagement 
+City,Ciudad,module,Webkul_PurchaseManagement 
+Click to response,Haga clic para responder,module,Webkul_PurchaseManagement 
+Comment,Comentario,module,Webkul_PurchaseManagement 
+Comments History,Historial de comentarios,module,Webkul_PurchaseManagement 
+Company,Empresa,module,Webkul_PurchaseManagement 
+Confirm,Confirmar,module,Webkul_PurchaseManagement 
+Confirm Quotation,Confirmar cotización,module,Webkul_PurchaseManagement 
+Confirm Quotation(s),Confirmar cotización(s),module,Webkul_PurchaseManagement 
+Confirmed,Confirmado,module,Webkul_PurchaseManagement 
+Cost Price,Precio de coste,module,Webkul_PurchaseManagement 
+Country,País,module,Webkul_PurchaseManagement 
+Create New Attribute,Crear nuevo atributo,module,Webkul_PurchaseManagement 
+Create New Order,Crear nuevo pedido,module,Webkul_PurchaseManagement 
+Create New Purchase Order,Crear nueva orden de compra,module,Webkul_PurchaseManagement 
+Create New Quotation,Crear nueva cotización,module,Webkul_PurchaseManagement 
+Create New Quotation Order,Crear nueva orden de cotización,module,Webkul_PurchaseManagement 
+Create Quotation,Crear cotización,module,Webkul_PurchaseManagement 
+Created At,Creado en,module,Webkul_PurchaseManagement 
+Created Date,Fecha de creación,module,Webkul_PurchaseManagement 
+Default Padding,Relleno predeterminado,module,Webkul_PurchaseManagement 
+Default Prefix,Prefijo predeterminado,module,Webkul_PurchaseManagement 
+Default Source,Fuente predeterminada,module,Webkul_PurchaseManagement 
+Delete,Eliminar,module,Webkul_PurchaseManagement 
+Delete Option,Eliminar opción,module,Webkul_PurchaseManagement 
+Disable,Inhabilitar,module,Webkul_PurchaseManagement 
+Disabled,Deshabilitado,module,Webkul_PurchaseManagement 
+Do you want to cancel selected Questions?,¿Quieres cancelar las preguntas seleccionadas?,module,Webkul_PurchaseManagement 
+Do you want to Cancel selected Quotation?,¿Quiere cancelar la cotización seleccionada?,module,Webkul_PurchaseManagement 
+Do you want to Confirm selected Quotation?,¿Quiere confirmar la cotización seleccionada?,module,Webkul_PurchaseManagement 
+Do you want to continue?,¿Quieres continuar?,module,Webkul_PurchaseManagement 
+Do you want to delete selected Attribute?,¿Quieres eliminar el atributo seleccionado?,module,Webkul_PurchaseManagement 
+Do you want to delete selected Products?,¿Quieres eliminar los productos seleccionados?,module,Webkul_PurchaseManagement 
+Do you want to delete selected Questions?,¿Quieres eliminar las preguntas seleccionadas?,module,Webkul_PurchaseManagement 
+Do you want to delete selected Quotation?,¿Quiere eliminar la cotización seleccionada?,module,Webkul_PurchaseManagement 
+Do you want to delete selected Supplier?,¿Quiere eliminar el proveedor seleccionado?,module,Webkul_PurchaseManagement 
+Do you want to Merge selected Quotations?,¿Desea fusionar las cotizaciones seleccionadas?,module,Webkul_PurchaseManagement 
+Do you want to print selected Quotation?,¿Quieres imprimir la cotización seleccionada?,module,Webkul_PurchaseManagement 
+Do you want to Recieve selected Shipments?,¿Quieres recibir los envíos seleccionados?,module,Webkul_PurchaseManagement 
+Done,Hecho,module,Webkul_PurchaseManagement 
+Edit,Editar,module,Webkul_PurchaseManagement 
+Edit Attribute,Editar atributo,module,Webkul_PurchaseManagement 
+Edit Quotation,Editar cotización,module,Webkul_PurchaseManagement 
+Edit Quotation '%',Editar cotización '%',module,Webkul_PurchaseManagement 
+Edit Shipments,Editar envíos,module,Webkul_PurchaseManagement 
+Edit Supplier '%',Editar proveedor '%',module,Webkul_PurchaseManagement 
+Email,Correo electrónico,module,Webkul_PurchaseManagement 
+Email ID must be unique.,El ID de correo electrónico debe ser único.,module,Webkul_PurchaseManagement 
+Email Options,Opciones de correo electrónico,module,Webkul_PurchaseManagement 
+Email Quotation,Cotización por correo electrónico,module,Webkul_PurchaseManagement 
+Enable,Habilitar,module,Webkul_PurchaseManagement 
+Enabled,Habilitado,module,Webkul_PurchaseManagement 
+"Error, Cancelled Quotation(s) Cannot be Confirmed !!!","Error, las cotizaciones canceladas no se pueden confirmar.",module,Webkul_PurchaseManagement 
+Failed to change the supplier,No se pudo cambiar el proveedor,module,Webkul_PurchaseManagement 
+Failed to Load Purchase Order,Error al cargar la orden de compra,module,Webkul_PurchaseManagement 
+Failed to update the shipment,No se pudo actualizar el envío,module,Webkul_PurchaseManagement 
+Fax,Fax,module,Webkul_PurchaseManagement 
+Female,Hembra,module,Webkul_PurchaseManagement 
+For any query feel free to contact.,Para cualquier consulta no dude en contactarnos.,module,Webkul_PurchaseManagement 
+Gender,Género,module,Webkul_PurchaseManagement 
+General Options,Opciones generales,module,Webkul_PurchaseManagement 
+Grand Total,Gran total,module,Webkul_PurchaseManagement 
+Id,Id,module,Webkul_PurchaseManagement 
+Incoming Information,Información entrante,module,Webkul_PurchaseManagement 
+Incoming Products,Productos entrantes,module,Webkul_PurchaseManagement 
+Incoming Shipment,Envío entrante,module,Webkul_PurchaseManagement 
+Incoming Shipment Id,ID de envío entrante,module,Webkul_PurchaseManagement 
+Incoming Shipments,Envíos entrantes,module,Webkul_PurchaseManagement 
+Increment Id,ID de incremento,module,Webkul_PurchaseManagement 
+Item,Articulo,module,Webkul_PurchaseManagement 
+Items Ordered,artículos ordenados,module,Webkul_PurchaseManagement 
+Lead Time(In Days),Plazo de entrega (en días),module,Webkul_PurchaseManagement 
+Looking forward for a positive response. For any query feel free to contact.,Esperando una respuesta positiva. Para cualquier consulta no dude en contactarnos.,module,Webkul_PurchaseManagement 
+Male,Masculino,module,Webkul_PurchaseManagement 
+Manage Attributes,Administrar atributos,module,Webkul_PurchaseManagement 
+Manage Group,Administrar grupo,module,Webkul_PurchaseManagement 
+Manage Options (Values of Your Attribute),Administrar opciones (valores de su atributo),module,Webkul_PurchaseManagement 
+Manage Purchase Order,Administrar orden de compra,module,Webkul_PurchaseManagement 
+Manage Quotation,Administrar cotización,module,Webkul_PurchaseManagement 
+Manage Suppliers,Administrar proveedores,module,Webkul_PurchaseManagement 
+Manual,Manual,module,Webkul_PurchaseManagement 
+MANUAL,MANUAL,module,Webkul_PurchaseManagement 
+Manual Method,Método manual,module,Webkul_PurchaseManagement 
+Media Image,Imagen multimedia,module,Webkul_PurchaseManagement 
+Merge,Unir,module,Webkul_PurchaseManagement 
+"Merge Error, Cancelled Quotation(s) Cannot be Merged !!!","Error de fusión, las cotizaciones canceladas no se pueden fusionar.",module,Webkul_PurchaseManagement 
+"Merge Error, Quotation(s) Must belong to same supplier !!!","Error de fusión, las cotizaciones deben pertenecer al mismo proveedor.",module,Webkul_PurchaseManagement 
+Merge Quotation(s),Combinar cotización(s),module,Webkul_PurchaseManagement 
+Minimal Quantity,Cantidad mínima,module,Webkul_PurchaseManagement 
+Name,Nombre,module,Webkul_PurchaseManagement 
+New,Nuevo,module,Webkul_PurchaseManagement 
+New Attribute,Atributo nuevo,module,Webkul_PurchaseManagement 
+New Row Add,Agregar nueva fila,module,Webkul_PurchaseManagement 
+New Supplier,Nuevo proveedor,module,Webkul_PurchaseManagement 
+No ordered items,No hay artículos pedidos,module,Webkul_PurchaseManagement 
+Not Notified,No notificado,module,Webkul_PurchaseManagement 
+Notes,Notas,module,Webkul_PurchaseManagement 
+Notes:,Notas:,module,Webkul_PurchaseManagement 
+Notified,Notificado,module,Webkul_PurchaseManagement 
+Notify Supplier by Email,Notificar al proveedor por correo electrónico,module,Webkul_PurchaseManagement 
+Order,Orden,module,Webkul_PurchaseManagement 
+Order '%',Orden '%',module,Webkul_PurchaseManagement 
+Order Date,Fecha de orden,module,Webkul_PurchaseManagement 
+Order Date: ,Fecha de orden:,module,Webkul_PurchaseManagement 
+Order for the following Product(s) is generated.,Se genera el pedido de los siguientes productos.,module,Webkul_PurchaseManagement 
+Order Information,información del pedido,module,Webkul_PurchaseManagement 
+Order Status,Estado del pedido,module,Webkul_PurchaseManagement 
+Order Totals,Totales de pedidos,module,Webkul_PurchaseManagement 
+Ordered,Ordenado,module,Webkul_PurchaseManagement 
+Ordered Quantity,Cantidad ordenada,module,Webkul_PurchaseManagement 
+Padding for quotation/purchase order increment number generation.,Relleno para generación de números de incrementos de pedidos / cotizaciones.,module,Webkul_PurchaseManagement 
+Partial Shipment,Envío parcial,module,Webkul_PurchaseManagement 
+Phone,Teléfono,module,Webkul_PurchaseManagement 
+Picking Status,Estado de selección,module,Webkul_PurchaseManagement 
+Please add options,Por favor agregue opciones,module,Webkul_PurchaseManagement 
+Please Select,Por favor seleccione,module,Webkul_PurchaseManagement 
+Please select a product,Por favor seleccione un producto,module,Webkul_PurchaseManagement 
+Please Select a Supplier,Seleccione un proveedor,module,Webkul_PurchaseManagement 
+Please select item(s),Por favor seleccione artículo(s),module,Webkul_PurchaseManagement 
+Prefix used during quotation increment number generation.,Prefijo utilizado durante la generación del número de incremento de cotización.,module,Webkul_PurchaseManagement 
+Price,Precio,module,Webkul_PurchaseManagement 
+Print Order,Orden de impresión,module,Webkul_PurchaseManagement 
+Print Orders,Órdenes de impresión,module,Webkul_PurchaseManagement 
+Print Quotation,Cotización impresa,module,Webkul_PurchaseManagement 
+Priority,Prioridad,module,Webkul_PurchaseManagement 
+Procurement Method,Método de adquisición,module,Webkul_PurchaseManagement 
+Product,Producto,module,Webkul_PurchaseManagement 
+Product Id,ID del Producto,module,Webkul_PurchaseManagement 
+Product Information,Información del Producto,module,Webkul_PurchaseManagement 
+Product Name,nombre del producto,module,Webkul_PurchaseManagement 
+Product Quantity,La cantidad de producto,module,Webkul_PurchaseManagement 
+Products,Productos,module,Webkul_PurchaseManagement 
+Products Information,Información de productos,module,Webkul_PurchaseManagement 
+Purchase Management,Gestión de compras,module,Webkul_PurchaseManagement 
+Purchase Order,Orden de compra,module,Webkul_PurchaseManagement 
+Purchase Order # ,Orden de compra #,module,Webkul_PurchaseManagement 
+Purchase Order Id,ID de orden de compra,module,Webkul_PurchaseManagement 
+Purchase Order Template,Plantilla de orden de compra,module,Webkul_PurchaseManagement 
+Qty,Cant.,module,Webkul_PurchaseManagement 
+Qty To Add,Cantidad para agregar,module,Webkul_PurchaseManagement 
+Quantity,Cantidad,module,Webkul_PurchaseManagement 
+Quotation,Cotización,module,Webkul_PurchaseManagement 
+Quotation Edit,Cotización Editar,module,Webkul_PurchaseManagement 
+Quotation has been confirmed successfully.,La cotización se ha confirmado correctamente.,module,Webkul_PurchaseManagement 
+Quotation Information,Información de cotización,module,Webkul_PurchaseManagement 
+Quotation Order,Orden de cotización,module,Webkul_PurchaseManagement 
+Quotation saved succesfully.,Cita guardada con éxito.,module,Webkul_PurchaseManagement 
+Quotation Template,Plantilla de cotización,module,Webkul_PurchaseManagement 
+"Quotation(s) has been Merged Successfully, Merged Quotation is %1","Las cotizaciones se fusionaron correctamente, la cotización fusionada es %1",module,Webkul_PurchaseManagement 
+Ready To Receive,Listo para recibir,module,Webkul_PurchaseManagement 
+Receive Now,Recibir ahora,module,Webkul_PurchaseManagement 
+Receive Qty,Recibir Cant.,module,Webkul_PurchaseManagement 
+Receive Shipments,Recibir Envíos,module,Webkul_PurchaseManagement 
+Received,Recibido,module,Webkul_PurchaseManagement 
+Record(s) were successfully deleted,Los registros se eliminaron correctamente,module,Webkul_PurchaseManagement 
+Records deleted successfully,Registros eliminados con éxito,module,Webkul_PurchaseManagement 
+Reference,Referencia,module,Webkul_PurchaseManagement 
+Reset,Reiniciar,module,Webkul_PurchaseManagement 
+RFQ,RFQ,module,Webkul_PurchaseManagement 
+Row Delete,Eliminar fila,module,Webkul_PurchaseManagement 
+Save,Guardar,module,Webkul_PurchaseManagement 
+Save Supplier,Guardar proveedor,module,Webkul_PurchaseManagement 
+Schedule Date,Fecha de programacion,module,Webkul_PurchaseManagement 
+Scheduled Date,Cita agendada,module,Webkul_PurchaseManagement 
+Scheduled date field cannot be empty,El campo de la fecha programada no puede estar vacío,module,Webkul_PurchaseManagement 
+Select Source,Seleccionar fuente,module,Webkul_PurchaseManagement 
+Select Supplier,Seleccionar proveedor,module,Webkul_PurchaseManagement 
+Send by Email,Enviar por correo electrónico,module,Webkul_PurchaseManagement 
+Shipment %1 Received Successfully.,Envío %1 recibido correctamente.,module,Webkul_PurchaseManagement 
+Shipment generated successfully for %1,Envío generado correctamente para %1,module,Webkul_PurchaseManagement 
+Shipment has been Updated successfully.,El envío se ha actualizado correctamente.,module,Webkul_PurchaseManagement 
+Shipments Information,Información de envíos,module,Webkul_PurchaseManagement 
+Show in Mail,Mostrar en correo,module,Webkul_PurchaseManagement 
+SKU,SKU,module,Webkul_PurchaseManagement 
+SKU:,SKU:,module,Webkul_PurchaseManagement 
+Something went wrong while editing the attribute.,Algo salió mal al editar el atributo.,module,Webkul_PurchaseManagement 
+"Sorry, Atleast Select 2 Quotation(s) for Merge Operation !!!","Lo sentimos, al menos seleccione 2 cotizaciones para la operación de fusión.",module,Webkul_PurchaseManagement 
+Source,Fuente,module,Webkul_PurchaseManagement 
+Source Document,Documento fuente,module,Webkul_PurchaseManagement 
+Source Document:,Documento fuente:,module,Webkul_PurchaseManagement 
+State,Estado,module,Webkul_PurchaseManagement 
+State/Province,Provincia del estado,module,Webkul_PurchaseManagement 
+Status,Estado,module,Webkul_PurchaseManagement 
+Status Option,Opción de estado,module,Webkul_PurchaseManagement 
+Street,Calle,module,Webkul_PurchaseManagement 
+Street 1,Calle 1,module,Webkul_PurchaseManagement 
+Street 2,Calle 2,module,Webkul_PurchaseManagement 
+Street Address,Dirección,module,Webkul_PurchaseManagement 
+Submit Comment,enviar comentario,module,Webkul_PurchaseManagement 
+Subtotal,Total parcial,module,Webkul_PurchaseManagement 
+Supplier,Proveedor,module,Webkul_PurchaseManagement 
+Supplier Data,Datos del proveedor,module,Webkul_PurchaseManagement 
+Supplier Details,Detalles del proveedor,module,Webkul_PurchaseManagement 
+Supplier details has been Updated successfully.,Los detalles del proveedor se han actualizado correctamente.,module,Webkul_PurchaseManagement 
+Supplier Details:,Detalles del proveedor:,module,Webkul_PurchaseManagement 
+Supplier Email,Correo electrónico del proveedor,module,Webkul_PurchaseManagement 
+Supplier Id,Identificación del proveedor,module,Webkul_PurchaseManagement 
+Supplier Information,Información del proveedor,module,Webkul_PurchaseManagement 
+Supplier Name,Nombre del proveedor,module,Webkul_PurchaseManagement 
+Supplier of Quotation has been Successfully Notified by Email.,El proveedor de la cotización ha sido notificado correctamente por correo electrónico.,module,Webkul_PurchaseManagement 
+Supplier saved succesfully.,Proveedor guardado con éxito.,module,Webkul_PurchaseManagement 
+Supplier Since,Proveedor desde,module,Webkul_PurchaseManagement 
+Supplier Source,Fuente del proveedor,module,Webkul_PurchaseManagement 
+Supplier Sources,Fuentes de proveedores,module,Webkul_PurchaseManagement 
+Supplier(s) of Quotation(s) %1 has been Successfully Notified by Email.,El (los) proveedor (es) de la (s) cotización (es) %1 ha sido notificado correctamente por correo electrónico.,module,Webkul_PurchaseManagement 
+Suppliers,Proveedores,module,Webkul_PurchaseManagement 
+Suppliers deleted successfully,Proveedores eliminados correctamente,module,Webkul_PurchaseManagement 
+Suppliers Information,Información de proveedores,module,Webkul_PurchaseManagement 
+Tax/VAT Number,Número de Impuesto / IVA,module,Webkul_PurchaseManagement 
+Telephone,Teléfono,module,Webkul_PurchaseManagement 
+Thank you,Gracias,module,Webkul_PurchaseManagement 
+The attribute code already exists.,El código de atributo ya existe.,module,Webkul_PurchaseManagement 
+"The CMS block with the ""%1"" ID doesn't exist.","El bloque CMS con el ID ""%1"" no existe.",module,Webkul_PurchaseManagement 
+The quotation is already confirmed for order %1,La cotización ya está confirmada para el pedido %1,module,Webkul_PurchaseManagement 
+The value of Admin must be unique.,El valor de Admin debe ser único.,module,Webkul_PurchaseManagement 
+Thumbnail,Miniatura,module,Webkul_PurchaseManagement 
+Total of %1 record(s) cannot be canceled,No se puede cancelar el total de %1 registro(s),module,Webkul_PurchaseManagement 
+Total of %1 record(s) were successfully canceled,El total de %1 registro(s) se canceló correctamente,module,Webkul_PurchaseManagement 
+Total of %1 record(s) were successfully deleted,El total de %1 registro(s) se borró correctamente,module,Webkul_PurchaseManagement 
+Update,Actualizar,module,Webkul_PurchaseManagement 
+Use Config Settings,Usar ajustes de configuración,module,Webkul_PurchaseManagement 
+Use of Special symbols is not allowed in zip code,No se permite el uso de símbolos especiales en el código postal,module,Webkul_PurchaseManagement 
+View,Ver,module,Webkul_PurchaseManagement 
+Webkul,IXI,module,Webkul_PurchaseManagement 
+Website,Sitio web,module,Webkul_PurchaseManagement 
+Weight,Peso,module,Webkul_PurchaseManagement 
+Yes,Si,module,Webkul_PurchaseManagement 
+You saved the attribute.,Guardaste el atributo.,module,Webkul_PurchaseManagement 
+You updated the attribute.,Actualizó el atributo.,module,Webkul_PurchaseManagement 
+Zip,Código Postal,module,Webkul_PurchaseManagement 
+Zip/Postal Code,Código postal,module,Webkul_PurchaseManagement 
 # of Items,# De artículos,module,WebShopApps_MatrixRate
 # of Items vs. Destination,# De elementos vs. destino,module,WebShopApps_MatrixRate
 City,Ciudad,module,WebShopApps_MatrixRate
@@ -25232,497 +25831,91 @@ We couldn\'t import this file because of these errors: %1,No podríamos importar
 Weight,Peso,module,WebShopApps_MatrixRate
 Weight vs. Destination,Peso vs. Destino,module,WebShopApps_MatrixRate
 Zip/Postal Code,Código postal,module,WebShopApps_MatrixRate
-Hover,Encima,module,WeltPixel_Quickview 
-Click,Click,module,WeltPixel_Quickview 
-True,Cierto,module,WeltPixel_Quickview 
-False,Falso,module,WeltPixel_Quickview 
-Quickview,Vista Rápida,module,WeltPixel_Quickview 
-Continue Shopping,Seguir Comprando,module,WeltPixel_Quickview 
-Go To Checkout,Ir a Pagar,module,WeltPixel_Quickview 
-Go To Product,Ver Producto,module,WeltPixel_Quickview 
-Add to Cart,Añadir al Carrito,module,WeltPixel_Quickview 
-Qty,Cant.,module,WeltPixel_Quickview 
-Quick View and Ajax Cart,Vista rápida y carrito Ajax,module,WeltPixel_Quickview 
-General,General,module,WeltPixel_Quickview 
-Enable on product listing,Habilitar en la lista de productos,module,WeltPixel_Quickview 
-Remove product image,Eliminar imagen de producto,module,WeltPixel_Quickview 
-Remove product image thumb,Quitar la miniatura de la imagen del producto,module,WeltPixel_Quickview 
-Remove short description,Eliminar descripción breve,module,WeltPixel_Quickview 
-Remove qty selector,Quitar selector de cantidad,module,WeltPixel_Quickview 
-Enable go to product button,Habilitar el botón ir al producto,module,WeltPixel_Quickview 
-Remove availability,Eliminar disponibilidad,module,WeltPixel_Quickview 
-Remove sku,Quitar sku,module,WeltPixel_Quickview 
-Button Style,Estilo de botón,module,WeltPixel_Quickview 
-After adding product to cart close quickview in X seconds,"Después de agregar el producto al carrito, cierre la vista rápida en X segundos",module,WeltPixel_Quickview 
-Auto scroll to top and open quick ,Desplazamiento automático hacia arriba y apertura rápida,module,WeltPixel_Quickview 
-Enable continue shopping/go to checkout buttons,Habilite los botones continuar comprando / ir a la caja,module,WeltPixel_Quickview 
-Custom CSS,CSS personalizado,module,WeltPixel_Quickview 
-Enable zoom,Habilitar zoom,module,WeltPixel_Quickview 
-Zoom of fullscreen,Zoom de pantalla completa,module,WeltPixel_Quickview 
-Top position of magnifier,Posición superior de la lupa,module,WeltPixel_Quickview 
-Left position of magnifier,Posición izquierda de la lupa,module,WeltPixel_Quickview 
-Width of magnifier block,Ancho del bloque de lupa,module,WeltPixel_Quickview 
-Height of magnifier block,Altura del bloque de lupa,module,WeltPixel_Quickview 
-Action that activates zoom,Acción que activa el zoom,module,WeltPixel_Quickview 
-Only Custom Modules,Solo módulos personalizados,module,WeltPixel_Backend 
-All Magento Modules,Todos los módulos de Magento,module,WeltPixel_Backend 
-OK,Ok,module,WeltPixel_Backend 
-CHECK REWRITE,VERIFICAR REESCRIBIR,module,WeltPixel_Backend 
-N/A,N/D,module,WeltPixel_Backend 
-Up to Date,Actualizado,module,WeltPixel_Backend 
-Update needed,Actualización necesaria,module,WeltPixel_Backend 
-Modules,Módulos,module,WeltPixel_Backend 
-Check Rewrites / Preferences,Comprobar reescrituras / preferencias,module,WeltPixel_Backend 
-Valid,Válido,module,WeltPixel_Backend 
-Invalid,Inválido,module,WeltPixel_Backend 
-The license key was successfully updated.,La clave de licencia se actualizó correctamente.,module,WeltPixel_Backend 
-The license key introduced is valid,La clave de licencia introducida es válida,module,WeltPixel_Backend 
-The license key you entered is invalid.,La clave de licencia que ingresó no es válida.,module,WeltPixel_Backend 
-Common reasons:,Razones comunes:,module,WeltPixel_Backend 
 "- Wrong domain name - check active license domain under My Downloadable Products section of your weltpixel.com account. License allows using the product on one Magento installation with any number of store views / URLs. Product can be installed on up to 5 sub-domains of the licensed domain for testing purpose, including domains .local | .dev | .development | .staging | .stage  Ex: staging.domain.com, development.domain.com, domain.local, domain.dev etc..","- Nombre de dominio incorrecto: verifique el dominio de licencia activo en la sección Mis productos descargables de su cuenta de weltpixel.com. La licencia permite usar el producto en una instalación de Magento con cualquier número de vistas de tienda / URL. El producto se puede instalar en hasta 5 subdominios del dominio con licencia con fines de prueba, incluidos los dominios .local | .dev | .desarrollo | .staging | .stage Ej .: staging.domain.com, development.domain.com, domain.local, domain.dev, etc.",module,WeltPixel_Backend 
 - Wrong Magento edition - using a Magento Open Source license key for a Magento Commerce installation.,- Edición de Magento incorrecta: se usa una clave de licencia de código abierto de Magento para una instalación de Magento Commerce.,module,WeltPixel_Backend 
 - Wrong module - using a license key from a different product or product pack.,- Módulo incorrecto: se utiliza una clave de licencia de un producto o paquete de producto diferente.,module,WeltPixel_Backend 
-There was a problem with the license key saving.,Hubo un problema al guardar la clave de licencia.,module,WeltPixel_Backend 
-License missing or invalid for the following WeltPixel module(s):,Falta la licencia o no es válida para los siguientes módulos de WeltPixel:,module,WeltPixel_Backend 
-You can enter the license key(s),Puede ingresar la (s) clave (s) de licencia,module,WeltPixel_Backend 
-here.,aquí.,module,WeltPixel_Backend 
-License key can be found under My Downloadable Products section of your weltpixel.com account.,La clave de licencia se puede encontrar en la sección Mis productos descargables de su cuenta de weltpixel.com.,module,WeltPixel_Backend 
-Yes (Recommended),Si (recomendado),module,WeltPixel_Backend 
-No,No,module,WeltPixel_Backend 
-"Sorry, you need a valid license key to view this content.","Lo sentimos, necesita una clave de licencia válida para ver este contenido.",module,WeltPixel_Backend 
-Next steps,Próximos pasos,module,WeltPixel_Backend 
-"If you think this is an error, make sure you added the correct license.","Si cree que se trata de un error, asegúrese de haber agregado la licencia correcta.",module,WeltPixel_Backend 
+All Magento Modules,Todos los módulos de Magento,module,WeltPixel_Backend 
+Area,Zona,module,WeltPixel_Backend 
+Change Magento Default Mode,Cambiar el modo predeterminado de Magento,module,WeltPixel_Backend 
 Check Here,Chequea aquí,module,WeltPixel_Backend 
+CHECK REWRITE,VERIFICAR REESCRIBIR,module,WeltPixel_Backend 
+Check Rewrites / Preferences,Comprobar reescrituras / preferencias,module,WeltPixel_Backend 
+Common reasons:,Razones comunes:,module,WeltPixel_Backend 
 Contact us if the problem still persists.,Contáctenos si el problema persiste.,module,WeltPixel_Backend 
-Name,Nombre,module,WeltPixel_Backend 
-License Key,Clave de licencia,module,WeltPixel_Backend 
-Submit,Enviar,module,WeltPixel_Backend 
-No licenses needed for current Weltpixel installed extensions.,No se necesitan licencias para las extensiones actuales de Weltpixel instaladas.,module,WeltPixel_Backend 
-Enabled,Habilitado,module,WeltPixel_Backend 
+Content Security Policies,Políticas de seguridad de contenido,module,WeltPixel_Backend 
 Current Version,Versión actual,module,WeltPixel_Backend 
+Developer,Desarrollador,module,WeltPixel_Backend 
+Enable broken reference logs,Habilitar registros de referencia rotos,module,WeltPixel_Backend 
+Enable WeltPixel Admin Notifications,Habilitar notificaciones de administrador de WeltPixel,module,WeltPixel_Backend 
+Enabled,Habilitado,module,WeltPixel_Backend 
+here.,aquí.,module,WeltPixel_Backend 
+"If you think this is an error, make sure you added the correct license.","Si cree que se trata de un error, asegúrese de haber agregado la licencia correcta.",module,WeltPixel_Backend 
+Invalid,Inválido,module,WeltPixel_Backend 
 Latest Version,Ultima versión,module,WeltPixel_Backend 
+License Key,Clave de licencia,module,WeltPixel_Backend 
+License key can be found under My Downloadable Products section of your weltpixel.com account.,La clave de licencia se puede encontrar en la sección Mis productos descargables de su cuenta de weltpixel.com.,module,WeltPixel_Backend 
+License missing or invalid for the following WeltPixel module(s):,Falta la licencia o no es válida para los siguientes módulos de WeltPixel:,module,WeltPixel_Backend 
+Logs,Registros,module,WeltPixel_Backend 
+Modules,Módulos,module,WeltPixel_Backend 
+N/A,N/D,module,WeltPixel_Backend 
+Name,Nombre,module,WeltPixel_Backend 
+Next steps,Próximos pasos,module,WeltPixel_Backend 
+No,No,module,WeltPixel_Backend 
+No licenses needed for current Weltpixel installed extensions.,No se necesitan licencias para las extensiones actuales de Weltpixel instaladas.,module,WeltPixel_Backend 
+Notifications,Notificaciones,module,WeltPixel_Backend 
+OK,Ok,module,WeltPixel_Backend 
+Only available from 2.3.5 version.,Solo disponible a partir de la versión 2.3.5.,module,WeltPixel_Backend 
+Only Custom Modules,Solo módulos personalizados,module,WeltPixel_Backend 
+Original Class,Clase original,module,WeltPixel_Backend 
+Recommended Solutions:,Soluciones recomendadas:,module,WeltPixel_Backend 
+Report Only,Solo informe,module,WeltPixel_Backend 
+Rewrite Class,Clase de reescritura,module,WeltPixel_Backend 
+"Sorry, you need a valid license key to view this content.","Lo sentimos, necesita una clave de licencia válida para ver este contenido.",module,WeltPixel_Backend 
+Status,Estado,module,WeltPixel_Backend 
+Submit,Enviar,module,WeltPixel_Backend 
+System Information,Información del sistema,module,WeltPixel_Backend 
+The license key introduced is valid,La clave de licencia introducida es válida,module,WeltPixel_Backend 
+The license key was successfully updated.,La clave de licencia se actualizó correctamente.,module,WeltPixel_Backend 
+The license key you entered is invalid.,La clave de licencia que ingresó no es válida.,module,WeltPixel_Backend 
 Theme module,Módulo temático,module,WeltPixel_Backend 
 Themes,Temas,module,WeltPixel_Backend 
+There was a problem with the license key saving.,Hubo un problema al guardar la clave de licencia.,module,WeltPixel_Backend 
+Up to Date,Actualizado,module,WeltPixel_Backend 
+Update needed,Actualización necesaria,module,WeltPixel_Backend 
+Valid,Válido,module,WeltPixel_Backend 
 WeltPixel,WeltPixel,module,WeltPixel_Backend 
 WeltPixel Documentation,Documentación de WeltPixel,module,WeltPixel_Backend 
-Recommended Solutions:,Soluciones recomendadas:,module,WeltPixel_Backend 
-Developer,Desarrollador,module,WeltPixel_Backend 
-System Information,Información del sistema,module,WeltPixel_Backend 
-Logs,Registros,module,WeltPixel_Backend 
-Enable broken reference logs,Habilitar registros de referencia rotos,module,WeltPixel_Backend 
-Notifications,Notificaciones,module,WeltPixel_Backend 
-Enable WeltPixel Admin Notifications,Habilitar notificaciones de administrador de WeltPixel,module,WeltPixel_Backend 
-Content Security Policies,Políticas de seguridad de contenido,module,WeltPixel_Backend 
-Change Magento Default Mode,Cambiar el modo predeterminado de Magento,module,WeltPixel_Backend 
-Only available from 2.3.5 version.,Solo disponible a partir de la versión 2.3.5.,module,WeltPixel_Backend 
-Report Only,Solo informe,module,WeltPixel_Backend 
-Area,Zona,module,WeltPixel_Backend 
-Original Class,Clase original,module,WeltPixel_Backend 
-Rewrite Class,Clase de reescritura,module,WeltPixel_Backend 
-Status,Estado,module,WeltPixel_Backend 
-Back,Regresar,module,Webkul_PurchaseManagement 
-Reset,Reiniciar,module,Webkul_PurchaseManagement 
-Save,Guardar,module,Webkul_PurchaseManagement 
-Products Information,Información de productos,module,Webkul_PurchaseManagement 
-Incoming Products,Productos entrantes,module,Webkul_PurchaseManagement 
-Send by Email,Enviar por correo electrónico,module,Webkul_PurchaseManagement 
-Print Order,Orden de impresión,module,Webkul_PurchaseManagement 
-Order '%',Orden '%',module,Webkul_PurchaseManagement 
-Create New Order,Crear nuevo pedido,module,Webkul_PurchaseManagement 
-Order Information,información del pedido,module,Webkul_PurchaseManagement 
-Increment Id,ID de incremento,module,Webkul_PurchaseManagement 
-Schedule Date,Fecha de programacion,module,Webkul_PurchaseManagement 
-Source Document,Documento fuente,module,Webkul_PurchaseManagement 
-Supplier Id,Identificación del proveedor,module,Webkul_PurchaseManagement 
-Status,Estado,module,Webkul_PurchaseManagement 
-Action,Acción,module,Webkul_PurchaseManagement 
-View,Ver,module,Webkul_PurchaseManagement 
-Purchase Order,Orden de compra,module,Webkul_PurchaseManagement 
-Incoming Shipment,Envío entrante,module,Webkul_PurchaseManagement 
-Partial Shipment,Envío parcial,module,Webkul_PurchaseManagement 
-Shipments Information,Información de envíos,module,Webkul_PurchaseManagement 
-Incoming Shipments,Envíos entrantes,module,Webkul_PurchaseManagement 
-Create Quotation,Crear cotización,module,Webkul_PurchaseManagement 
-Edit Quotation '%',Editar cotización '%',module,Webkul_PurchaseManagement 
-Create New Quotation,Crear nueva cotización,module,Webkul_PurchaseManagement 
-Edit,Editar,module,Webkul_PurchaseManagement 
-Confirm Quotation,Confirmar cotización,module,Webkul_PurchaseManagement 
-Quotation Information,Información de cotización,module,Webkul_PurchaseManagement 
-Quotation Edit,Cotización Editar,module,Webkul_PurchaseManagement 
-Create New Quotation Order,Crear nueva orden de cotización,module,Webkul_PurchaseManagement 
-Product Id,ID del Producto,module,Webkul_PurchaseManagement 
-Thumbnail,Miniatura,module,Webkul_PurchaseManagement 
-Name,Nombre,module,Webkul_PurchaseManagement 
-SKU,SKU,module,Webkul_PurchaseManagement 
-Cost Price,Precio de coste,module,Webkul_PurchaseManagement 
-Qty To Add,Cantidad para agregar,module,Webkul_PurchaseManagement 
-Email,Correo electrónico,module,Webkul_PurchaseManagement 
-Company,Empresa,module,Webkul_PurchaseManagement 
-Telephone,Teléfono,module,Webkul_PurchaseManagement 
-Zip,Código Postal,module,Webkul_PurchaseManagement 
-Save Supplier,Guardar proveedor,module,Webkul_PurchaseManagement 
-Edit Supplier '%',Editar proveedor '%',module,Webkul_PurchaseManagement 
-New Supplier,Nuevo proveedor,module,Webkul_PurchaseManagement 
-Supplier Information,Información del proveedor,module,Webkul_PurchaseManagement 
-Product Name,nombre del producto,module,Webkul_PurchaseManagement 
-Minimal Quantity,Cantidad mínima,module,Webkul_PurchaseManagement 
-Lead Time(In Days),Plazo de entrega (en días),module,Webkul_PurchaseManagement 
-Priority,Prioridad,module,Webkul_PurchaseManagement 
-Created At,Creado en,module,Webkul_PurchaseManagement 
-Created Date,Fecha de creación,module,Webkul_PurchaseManagement 
-Supplier Email,Correo electrónico del proveedor,module,Webkul_PurchaseManagement 
-Tax/VAT Number,Número de Impuesto / IVA,module,Webkul_PurchaseManagement 
-Website,Sitio web,module,Webkul_PurchaseManagement 
-Gender,Género,module,Webkul_PurchaseManagement 
-Please Select,Por favor seleccione,module,Webkul_PurchaseManagement 
-Male,Masculino,module,Webkul_PurchaseManagement 
-Female,Hembra,module,Webkul_PurchaseManagement 
-Street Address,Dirección,module,Webkul_PurchaseManagement 
-Street 1,Calle 1,module,Webkul_PurchaseManagement 
-Street 2,Calle 2,module,Webkul_PurchaseManagement 
-City,Ciudad,module,Webkul_PurchaseManagement 
-State/Province,Provincia del estado,module,Webkul_PurchaseManagement 
-Country,País,module,Webkul_PurchaseManagement 
-Zip/Postal Code,Código postal,module,Webkul_PurchaseManagement 
-Fax,Fax,module,Webkul_PurchaseManagement 
-Supplier Sources,Fuentes de proveedores,module,Webkul_PurchaseManagement 
-Supplier Data,Datos del proveedor,module,Webkul_PurchaseManagement 
-Suppliers Information,Información de proveedores,module,Webkul_PurchaseManagement 
-Products,Productos,module,Webkul_PurchaseManagement 
-Quotation,Cotización,module,Webkul_PurchaseManagement 
-Something went wrong while editing the attribute.,Algo salió mal al editar el atributo.,module,Webkul_PurchaseManagement 
-Edit Attribute,Editar atributo,module,Webkul_PurchaseManagement 
-New Attribute,Atributo nuevo,module,Webkul_PurchaseManagement 
-Add New Attribute,Agregar nuevo atributo,module,Webkul_PurchaseManagement 
-Manage Attributes,Administrar atributos,module,Webkul_PurchaseManagement 
-A total of %1 record(s) have been deleted.,Se ha eliminado un total de %1 registro(s).,module,Webkul_PurchaseManagement 
-Please add options,Por favor agregue opciones,module,Webkul_PurchaseManagement 
-You saved the attribute.,Guardaste el atributo.,module,Webkul_PurchaseManagement 
-You updated the attribute.,Actualizó el atributo.,module,Webkul_PurchaseManagement 
-"Attribute name ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field,
-                     first character should be a letter.","El nombre de atributo ""%1"" no es válido. Utilice solo letras (a-z), números (0-9) o guión bajo (_) en este campo,
-                     el primer carácter debe ser una letra.",module,Webkul_PurchaseManagement 
-The attribute code already exists.,El código de atributo ya existe.,module,Webkul_PurchaseManagement 
-Manage Group,Administrar grupo,module,Webkul_PurchaseManagement 
-Please select item(s),Por favor seleccione artículo(s),module,Webkul_PurchaseManagement 
-Records deleted successfully,Registros eliminados con éxito,module,Webkul_PurchaseManagement 
-Shipment has been Updated successfully.,El envío se ha actualizado correctamente.,module,Webkul_PurchaseManagement 
-Failed to update the shipment,No se pudo actualizar el envío,module,Webkul_PurchaseManagement 
-Scheduled date field cannot be empty,El campo de la fecha programada no puede estar vacío,module,Webkul_PurchaseManagement 
-Total of %1 record(s) cannot be canceled,No se puede cancelar el total de %1 registro(s),module,Webkul_PurchaseManagement 
-Total of %1 record(s) were successfully canceled,El total de %1 registro(s) se canceló correctamente,module,Webkul_PurchaseManagement 
-Manage Purchase Order,Administrar orden de compra,module,Webkul_PurchaseManagement 
-Supplier of Quotation has been Successfully Notified by Email.,El proveedor de la cotización ha sido notificado correctamente por correo electrónico.,module,Webkul_PurchaseManagement 
-Order,Orden,module,Webkul_PurchaseManagement 
-Edit Shipments,Editar envíos,module,Webkul_PurchaseManagement 
-Record(s) were successfully deleted,Los registros se eliminaron correctamente,module,Webkul_PurchaseManagement 
-Shipment generated successfully for %1,Envío generado correctamente para %1,module,Webkul_PurchaseManagement 
-"Action not allowed, the order is already canceled","Acción no permitida, el pedido ya está cancelado",module,Webkul_PurchaseManagement 
-"Action not allowed, the order %1 is already canceled","Acción no permitida, el pedido %1 ya está cancelado",module,Webkul_PurchaseManagement 
-Shipment %1 Received Successfully.,Envío %1 recibido correctamente.,module,Webkul_PurchaseManagement 
-Supplier details has been Updated successfully.,Los detalles del proveedor se han actualizado correctamente.,module,Webkul_PurchaseManagement 
-Failed to change the supplier,No se pudo cambiar el proveedor,module,Webkul_PurchaseManagement 
-Quotation saved succesfully.,Cita guardada con éxito.,module,Webkul_PurchaseManagement 
-Edit Quotation,Editar cotización,module,Webkul_PurchaseManagement 
-Manage Quotation,Administrar cotización,module,Webkul_PurchaseManagement 
-%1 Quotation(s) has been Confirmed Successfully.,%1 Las cotizaciones se han confirmado correctamente.,module,Webkul_PurchaseManagement 
-%1 Quotation(s) cannot be Confirmed.,%1 Las cotizaciones no se pueden confirmar.,module,Webkul_PurchaseManagement 
-Total of %1 record(s) were successfully deleted,El total de %1 registro(s) se borró correctamente,module,Webkul_PurchaseManagement 
-Supplier(s) of Quotation(s) %1 has been Successfully Notified by Email.,El (los) proveedor (es) de la (s) cotización (es) %1 ha sido notificado correctamente por correo electrónico.,module,Webkul_PurchaseManagement 
-"Sorry, Atleast Select 2 Quotation(s) for Merge Operation !!!","Lo sentimos, al menos seleccione 2 cotizaciones para la operación de fusión.",module,Webkul_PurchaseManagement 
-"Merge Error, Cancelled Quotation(s) Cannot be Merged !!!","Error de fusión, las cotizaciones canceladas no se pueden fusionar.",module,Webkul_PurchaseManagement 
-"Merge Error, Quotation(s) Must belong to same supplier !!!","Error de fusión, las cotizaciones deben pertenecer al mismo proveedor.",module,Webkul_PurchaseManagement 
-"Quotation(s) has been Merged Successfully, Merged Quotation is %1","Las cotizaciones se fusionaron correctamente, la cotización fusionada es %1",module,Webkul_PurchaseManagement 
-"Error, Cancelled Quotation(s) Cannot be Confirmed !!!","Error, las cotizaciones canceladas no se pueden confirmar.",module,Webkul_PurchaseManagement 
-Quotation has been confirmed successfully.,La cotización se ha confirmado correctamente.,module,Webkul_PurchaseManagement 
-Failed to Load Purchase Order,Error al cargar la orden de compra,module,Webkul_PurchaseManagement 
-The quotation is already confirmed for order %1,La cotización ya está confirmada para el pedido %1,module,Webkul_PurchaseManagement 
-Supplier,Proveedor,module,Webkul_PurchaseManagement 
-Manage Suppliers,Administrar proveedores,module,Webkul_PurchaseManagement 
-Suppliers deleted successfully,Proveedores eliminados correctamente,module,Webkul_PurchaseManagement 
-Use of Special symbols is not allowed in zip code,No se permite el uso de símbolos especiales en el código postal,module,Webkul_PurchaseManagement 
-Supplier saved succesfully.,Proveedor guardado con éxito.,module,Webkul_PurchaseManagement 
-Email ID must be unique.,El ID de correo electrónico debe ser único.,module,Webkul_PurchaseManagement 
-Use Config Settings,Usar ajustes de configuración,module,Webkul_PurchaseManagement 
-Automatic Method,Método automático,module,Webkul_PurchaseManagement 
-Manual Method,Método manual,module,Webkul_PurchaseManagement 
-Manual,Manual,module,Webkul_PurchaseManagement 
-Automatic,Automático,module,Webkul_PurchaseManagement 
-"The CMS block with the ""%1"" ID doesn't exist.","El bloque CMS con el ID ""%1"" no existe.",module,Webkul_PurchaseManagement 
-New,Nuevo,module,Webkul_PurchaseManagement 
-Ready To Receive,Listo para recibir,module,Webkul_PurchaseManagement 
-Received,Recibido,module,Webkul_PurchaseManagement 
-Canceled,Cancelado,module,Webkul_PurchaseManagement 
-Purchase Order # ,Orden de compra #,module,Webkul_PurchaseManagement 
-Order Date: ,Fecha de orden:,module,Webkul_PurchaseManagement 
-Supplier Details:,Detalles del proveedor:,module,Webkul_PurchaseManagement 
-Qty,Cant.,module,Webkul_PurchaseManagement 
-Price,Precio,module,Webkul_PurchaseManagement 
-Subtotal,Total parcial,module,Webkul_PurchaseManagement 
-RFQ,RFQ,module,Webkul_PurchaseManagement 
-Confirm,Confirmar,module,Webkul_PurchaseManagement 
-Done,Hecho,module,Webkul_PurchaseManagement 
-Enable,Habilitar,module,Webkul_PurchaseManagement 
-Disable,Inhabilitar,module,Webkul_PurchaseManagement 
-Media Image,Imagen multimedia,module,Webkul_PurchaseManagement 
-Disabled,Deshabilitado,module,Webkul_PurchaseManagement 
-Enabled,Habilitado,module,Webkul_PurchaseManagement 
-Click to response,Haga clic para responder,module,Webkul_PurchaseManagement 
-MANUAL,MANUAL,module,Webkul_PurchaseManagement 
-Additional Attributes,Atributos adicionales,module,Webkul_PurchaseManagement 
-Yes,Si,module,Webkul_PurchaseManagement 
-Source Document:,Documento fuente:,module,Webkul_PurchaseManagement 
-Notes:,Notas:,module,Webkul_PurchaseManagement 
-Please Select a Supplier,Seleccione un proveedor,module,Webkul_PurchaseManagement 
-Add Selected Product(s) to Quotation,Agregar producto(s) seleccionado(s) a cotización,module,Webkul_PurchaseManagement 
-Add Products,Agregar productos,module,Webkul_PurchaseManagement 
-Items Ordered,artículos ordenados,module,Webkul_PurchaseManagement 
-Product,Producto,module,Webkul_PurchaseManagement 
-Select Source,Seleccionar fuente,module,Webkul_PurchaseManagement 
-No ordered items,No hay artículos pedidos,module,Webkul_PurchaseManagement 
-Supplier Details,Detalles del proveedor,module,Webkul_PurchaseManagement 
-Street,Calle,module,Webkul_PurchaseManagement 
-State,Estado,module,Webkul_PurchaseManagement 
-Phone,Teléfono,module,Webkul_PurchaseManagement 
-SKU:,SKU:,module,Webkul_PurchaseManagement 
-Delete,Eliminar,module,Webkul_PurchaseManagement 
-Comments History,Historial de comentarios,module,Webkul_PurchaseManagement 
-Add Order Comments,Agregar comentarios de pedido,module,Webkul_PurchaseManagement 
-Comment,Comentario,module,Webkul_PurchaseManagement 
-Notify Supplier by Email,Notificar al proveedor por correo electrónico,module,Webkul_PurchaseManagement 
-Manage Options (Values of Your Attribute),Administrar opciones (valores de su atributo),module,Webkul_PurchaseManagement 
-Add Option,Agregar opción,module,Webkul_PurchaseManagement 
-The value of Admin must be unique.,El valor de Admin debe ser único.,module,Webkul_PurchaseManagement 
-Incoming Information,Información entrante,module,Webkul_PurchaseManagement 
-Source,Fuente,module,Webkul_PurchaseManagement 
-Reference,Referencia,module,Webkul_PurchaseManagement 
-Scheduled Date,Cita agendada,module,Webkul_PurchaseManagement 
-Update,Actualizar,module,Webkul_PurchaseManagement 
-Order Status,Estado del pedido,module,Webkul_PurchaseManagement 
-Product Information,Información del Producto,module,Webkul_PurchaseManagement 
-Ordered Quantity,Cantidad ordenada,module,Webkul_PurchaseManagement 
-Weight,Peso,module,Webkul_PurchaseManagement 
-Submit Comment,enviar comentario,module,Webkul_PurchaseManagement 
-Notified,Notificado,module,Webkul_PurchaseManagement 
-Not Notified,No notificado,module,Webkul_PurchaseManagement 
-Picking Status,Estado de selección,module,Webkul_PurchaseManagement 
-Supplier Name,Nombre del proveedor,module,Webkul_PurchaseManagement 
-Ordered,Ordenado,module,Webkul_PurchaseManagement 
-Receive Qty,Recibir Cant.,module,Webkul_PurchaseManagement 
-Add New Supplier,Agregar nuevo proveedor,module,Webkul_PurchaseManagement 
-Choose Supplier,Elija proveedor,module,Webkul_PurchaseManagement 
-Status Option,Opción de estado,module,Webkul_PurchaseManagement 
-Delete Option,Eliminar opción,module,Webkul_PurchaseManagement 
--- Please select --,- Seleccione -,module,Webkul_PurchaseManagement 
-Product Quantity,La cantidad de producto,module,Webkul_PurchaseManagement 
-Row Delete,Eliminar fila,module,Webkul_PurchaseManagement 
-New Row Add,Agregar nueva fila,module,Webkul_PurchaseManagement 
-Quotation Order,Orden de cotización,module,Webkul_PurchaseManagement 
-Order Date,Fecha de orden,module,Webkul_PurchaseManagement 
-Confirmed,Confirmado,module,Webkul_PurchaseManagement 
-Cancelled,Cancelado,module,Webkul_PurchaseManagement 
-Notes,Notas,module,Webkul_PurchaseManagement 
-Supplier Source,Fuente del proveedor,module,Webkul_PurchaseManagement 
-Default Source,Fuente predeterminada,module,Webkul_PurchaseManagement 
-Order Totals,Totales de pedidos,module,Webkul_PurchaseManagement 
-Grand Total,Gran total,module,Webkul_PurchaseManagement 
-Select Supplier,Seleccionar proveedor,module,Webkul_PurchaseManagement 
-Item,Articulo,module,Webkul_PurchaseManagement 
-Base Price,Precio base,module,Webkul_PurchaseManagement 
-A new quoatation has been submitted.,Se ha enviado una nueva cotización.,module,Webkul_PurchaseManagement 
-Looking forward for a positive response. For any query feel free to contact.,Esperando una respuesta positiva. Para cualquier consulta no dude en contactarnos.,module,Webkul_PurchaseManagement 
-Thank you,Gracias,module,Webkul_PurchaseManagement 
-Order for the following Product(s) is generated.,Se genera el pedido de los siguientes productos.,module,Webkul_PurchaseManagement 
-For any query feel free to contact.,Para cualquier consulta no dude en contactarnos.,module,Webkul_PurchaseManagement 
-Please select a product,Por favor seleccione un producto,module,Webkul_PurchaseManagement 
-Cancel,Cancelar,module,Webkul_PurchaseManagement 
-Receive Now,Recibir ahora,module,Webkul_PurchaseManagement 
-Change Supplier,Cambiar de proveedor,module,Webkul_PurchaseManagement 
-Webkul,IXI,module,Webkul_PurchaseManagement 
-Purchase Management,Gestión de compras,module,Webkul_PurchaseManagement 
-General Options,Opciones generales,module,Webkul_PurchaseManagement 
-Procurement Method,Método de adquisición,module,Webkul_PurchaseManagement 
-Automatic(Magento will trigger a draft purchase order to buy the required quantities to the supplier),Automático (Magento activará un borrador de orden de compra para comprar las cantidades requeridas al proveedor),module,Webkul_PurchaseManagement 
-Default Prefix,Prefijo predeterminado,module,Webkul_PurchaseManagement 
-Prefix used during quotation increment number generation.,Prefijo utilizado durante la generación del número de incremento de cotización.,module,Webkul_PurchaseManagement 
-Default Padding,Relleno predeterminado,module,Webkul_PurchaseManagement 
-Padding for quotation/purchase order increment number generation.,Relleno para generación de números de incrementos de pedidos / cotizaciones.,module,Webkul_PurchaseManagement 
-Email Options,Opciones de correo electrónico,module,Webkul_PurchaseManagement 
-Quotation Template,Plantilla de cotización,module,Webkul_PurchaseManagement 
-Purchase Order Template,Plantilla de orden de compra,module,Webkul_PurchaseManagement 
-Suppliers,Proveedores,module,Webkul_PurchaseManagement 
-Attribute Label,Etiqueta de atributo,module,Webkul_PurchaseManagement 
-Attribute Code,Código de atributo,module,Webkul_PurchaseManagement 
-Attribute Type,Tipo de atributo,module,Webkul_PurchaseManagement 
-Show in Mail,Mostrar en correo,module,Webkul_PurchaseManagement 
-Create New Attribute,Crear nuevo atributo,module,Webkul_PurchaseManagement 
-Do you want to delete selected Attribute?,¿Quieres eliminar el atributo seleccionado?,module,Webkul_PurchaseManagement 
-Do you want to delete selected Products?,¿Quieres eliminar los productos seleccionados?,module,Webkul_PurchaseManagement 
-Supplier Since,Proveedor desde,module,Webkul_PurchaseManagement 
-Quantity,Cantidad,module,Webkul_PurchaseManagement 
-Print Orders,Órdenes de impresión,module,Webkul_PurchaseManagement 
-Cancel Orders,Cancelar pedidos,module,Webkul_PurchaseManagement 
-Do you want to cancel selected Questions?,¿Quieres cancelar las preguntas seleccionadas?,module,Webkul_PurchaseManagement 
-Purchase Order Id,ID de orden de compra,module,Webkul_PurchaseManagement 
-Create New Purchase Order,Crear nueva orden de compra,module,Webkul_PurchaseManagement 
-Do you want to Cancel selected Quotation?,¿Quiere cancelar la cotización seleccionada?,module,Webkul_PurchaseManagement 
-Merge Quotation(s),Combinar cotización(s),module,Webkul_PurchaseManagement 
-Merge,Unir,module,Webkul_PurchaseManagement 
-Do you want to Merge selected Quotations?,¿Desea fusionar las cotizaciones seleccionadas?,module,Webkul_PurchaseManagement 
-Confirm Quotation(s),Confirmar cotización(s),module,Webkul_PurchaseManagement 
-Do you want to Confirm selected Quotation?,¿Quiere confirmar la cotización seleccionada?,module,Webkul_PurchaseManagement 
-Email Quotation,Cotización por correo electrónico,module,Webkul_PurchaseManagement 
-Do you want to continue?,¿Quieres continuar?,module,Webkul_PurchaseManagement 
-Print Quotation,Cotización impresa,module,Webkul_PurchaseManagement 
-Do you want to print selected Quotation?,¿Quieres imprimir la cotización seleccionada?,module,Webkul_PurchaseManagement 
-Do you want to delete selected Quotation?,¿Quiere eliminar la cotización seleccionada?,module,Webkul_PurchaseManagement 
-Receive Shipments,Recibir Envíos,module,Webkul_PurchaseManagement 
-Do you want to Recieve selected Shipments?,¿Quieres recibir los envíos seleccionados?,module,Webkul_PurchaseManagement 
-Do you want to delete selected Questions?,¿Quieres eliminar las preguntas seleccionadas?,module,Webkul_PurchaseManagement 
-Incoming Shipment Id,ID de envío entrante,module,Webkul_PurchaseManagement 
-Add Supplier,Agregar proveedor,module,Webkul_PurchaseManagement 
-Do you want to delete selected Supplier?,¿Quiere eliminar el proveedor seleccionado?,module,Webkul_PurchaseManagement 
-Id,Id,module,Webkul_PurchaseManagement 
-New Custom Attribute,Nuevo atributo personalizado,module,Webkul_CustomRegistration 
-This attribute no longer exists.,Este atributo ya no existe.,module,Webkul_CustomRegistration 
-This attribute cannot be edited.,Este atributo no se puede editar.,module,Webkul_CustomRegistration 
-Manage Fields,Administrar campos,module,Webkul_CustomRegistration 
-A total of %1 record(s) have been deleted.,Se ha eliminado un total de %1 registro (s).,module,Webkul_CustomRegistration 
-"Attribute name '%1' is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","El nombre de atributo '%1' no es válido. Utilice solo letras (a-z), números (0-9) o guión bajo (_) en este campo, el primer carácter debe ser una letra.",module,Webkul_CustomRegistration 
-Attribute code '%1' is already exists.,El código de atributo '%1' ya existe.,module,Webkul_CustomRegistration 
-You saved the custom attribute.,Guardaste el atributo personalizado.,module,Webkul_CustomRegistration 
-An attribute with this code already exists.,Ya existe un atributo con este código.,module,Webkul_CustomRegistration 
-An attribute with the same code (%1) already exists.,Ya existe un atributo con el mismo código (%1).,module,Webkul_CustomRegistration 
-An dependable attribute with this code already exists.,Ya existe un atributo confiable con este código.,module,Webkul_CustomRegistration 
-An dependable attribute with the same code (%1) already exists.,Ya existe un atributo confiable con el mismo código (%1).,module,Webkul_CustomRegistration 
-A total of %1 record(s) have been updated.,Se ha actualizado un total de %1 registro (s).,module,Webkul_CustomRegistration 
-Additional Information,Información Adicional,module,Webkul_CustomRegistration 
-Customer additional information saved successfully.,Información adicional del cliente guardada correctamente.,module,Webkul_CustomRegistration 
-Edit,Editar,module,Webkul_CustomRegistration 
-Disable,Inhabilitar,module,Webkul_CustomRegistration 
-Enable,Habilitar,module,Webkul_CustomRegistration 
-Are you sure you wan't to disable?,¿Estás seguro de que no quieres desactivarlo?,module,Webkul_CustomRegistration 
-Are you sure you wan't to delete?,¿Estas seguro que quieres borrarlo?,module,Webkul_CustomRegistration 
-Manage Display Fields,Administrar campos de visualización,module,Webkul_CustomRegistration 
-Display In Order,Mostrar en orden,module,Webkul_CustomRegistration 
-Hide From Order,Ocultar del pedido,module,Webkul_CustomRegistration 
-Display In Email,Mostrar en correo electrónico,module,Webkul_CustomRegistration 
-Hide From Email,Ocultar del correo electrónico,module,Webkul_CustomRegistration 
-Attribute Id,ID de atributo,module,Webkul_CustomRegistration 
-Attribute Code,Código de atributo,module,Webkul_CustomRegistration 
-Attribute Label,Etiqueta de atributo,module,Webkul_CustomRegistration 
-Show in Order,Mostrar en orden,module,Webkul_CustomRegistration 
-Show in Email,Mostrar en correo electrónico,module,Webkul_CustomRegistration 
-Status,Estado,module,Webkul_CustomRegistration 
-Allowed Extension,Extensión permitida,module,Webkul_CustomRegistration 
-Dependable Allowed Extension,Extensión permitida confiable,module,Webkul_CustomRegistration 
-Manage Options (values of your attribute),Administrar opciones (valores de su atributo),module,Webkul_CustomRegistration 
-Add Option,Agregar opción,module,Webkul_CustomRegistration 
-Delete,Eliminar,module,Webkul_CustomRegistration 
-* Required Fields,* Campos requeridos,module,Webkul_CustomRegistration 
-Additional Information,Información Adicional,module,Webkul_CustomRegistration 
-Save and Continue Edit,Guardar y continuar editar,module,Webkul_CustomRegistration 
-Save Attribute,Guardar atributo,module,Webkul_CustomRegistration 
-Delete Attribute,Eliminar atributo,module,Webkul_CustomRegistration 
-"Edit Customer Attribute %1""""","Editar atributo de cliente %1 """"",module,Webkul_CustomRegistration 
-Attribute Properties,Propiedades de atributo,module,Webkul_CustomRegistration 
-Default label,Etiqueta predeterminada,module,Webkul_CustomRegistration 
-Make sure you don't use spaces or more than %1 characters.,Asegúrese de no utilizar espacios ni más de %1 caracteres.,module,Webkul_CustomRegistration 
-Input Type for Store Owner,Tipo de entrada para el propietario de la tienda,module,Webkul_CustomRegistration 
-Values Required,Valores requeridos,module,Webkul_CustomRegistration 
-Input Validation for Store Owner,Validación de entrada para el propietario de la tienda,module,Webkul_CustomRegistration 
-Input Field Sort Order,Orden de clasificación del campo de entrada,module,Webkul_CustomRegistration 
-Display Fields in Form,Mostrar campos en formulario,module,Webkul_CustomRegistration 
-Admin Customer Form,Formulario de cliente administrador,module,Webkul_CustomRegistration 
-"Customer Account""","Cuenta de cliente""",module,Webkul_CustomRegistration 
-Registration Form,Formulario de inscripción,module,Webkul_CustomRegistration 
-Dependable Fields Properties,Propiedades de campos confiables,module,Webkul_CustomRegistration 
-This is used internally. Make sure you don't use spaces or more than %1 characters.,Esto se usa internamente. Asegúrese de no utilizar espacios ni más de %1 caracteres.,module,Webkul_CustomRegistration 
-Media Image,Imagen multimedia,module,Webkul_CustomRegistration 
-File,Archivo,module,Webkul_CustomRegistration 
-Dependable,Confiable,module,Webkul_CustomRegistration 
-Radio,Radio,module,Webkul_CustomRegistration 
-Gallery,Galería,module,Webkul_CustomRegistration 
-Attribute Information,Información de atributos,module,Webkul_CustomRegistration 
-Properties,Propiedades,module,Webkul_CustomRegistration 
-Please select item(s).,Seleccione el (los) artículo (s).,module,Webkul_CustomRegistration 
-Customregistration,Registro personalizado,module,Webkul_CustomRegistration 
-Manage Custom Fields,Administrar campos personalizados,module,Webkul_CustomRegistration 
-Edit Product Attribute,Editar atributo del producto,module,Webkul_CustomRegistration 
-" Dependable Attribute name ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter."," El nombre de atributo confiable ""%1"" no es válido. Utilice solo letras (a-z), números (0-9) o guión bajo (_) en este campo, el primer carácter debe ser una letra.",module,Webkul_CustomRegistration 
-"Attribute code ""%1"" is already exists.","El código de atributo ""%1"" ya existe.",module,Webkul_CustomRegistration 
-Something went wrong while saving file.,Se produjo un error al guardar el archivo.,module,Webkul_CustomRegistration 
-Please Fill all the Required Fields.,Complete todos los campos obligatorios.,module,Webkul_CustomRegistration 
-Page not found.,Página no encontrada.,module,Webkul_CustomRegistration 
-Text,Texto,module,Webkul_CustomRegistration 
-HTML,HTML,module,Webkul_CustomRegistration 
-Text Area,Área de texto,module,Webkul_CustomRegistration 
-Date,Fecha,module,Webkul_CustomRegistration 
-Dropdown,Desplegable,module,Webkul_CustomRegistration 
-Multiple Select,Selección múltiple,module,Webkul_CustomRegistration 
-Radio Button,Boton de radio,module,Webkul_CustomRegistration 
-Dependable Field,Campo confiable,module,Webkul_CustomRegistration 
-Check Terms and Conditions & Privacy & Cookie Policy.,Consulte los Términos y condiciones y la Política de privacidad y cookies.,module,Webkul_CustomRegistration 
-Custom Registration Fields,Campos de registro personalizados,module,Webkul_CustomRegistration 
-Sort Option,Opción de clasificación,module,Webkul_CustomRegistration 
-Order & Account Information,Información de pedido y cuenta,module,Webkul_CustomRegistration 
-The order confirmation email was sent,Se envió el correo electrónico de confirmación del pedido.,module,Webkul_CustomRegistration 
-The order confirmation email is not sent,No se envía el correo electrónico de confirmación del pedido,module,Webkul_CustomRegistration 
-Order # %1,Pedido n.º %1,module,Webkul_CustomRegistration 
-Order Date,Fecha de orden,module,Webkul_CustomRegistration 
-Order Date (%1),Fecha de pedido (%1),module,Webkul_CustomRegistration 
-Order Status,Estado del pedido,module,Webkul_CustomRegistration 
-Purchased From,Comprado de,module,Webkul_CustomRegistration 
-Link to the New Order,Enlace al nuevo pedido,module,Webkul_CustomRegistration 
-Link to the Previous Order,Enlace al pedido anterior,module,Webkul_CustomRegistration 
-Placed from IP,Colocado desde IP,module,Webkul_CustomRegistration 
-%1 / %2 rate:,Tasa %1 / %2:,module,Webkul_CustomRegistration 
-Account Information,Información de la cuenta,module,Webkul_CustomRegistration 
-Customer Name,Nombre del cliente,module,Webkul_CustomRegistration 
-Email,Correo electrónico,module,Webkul_CustomRegistration 
-Customer Group,grupo de clientes,module,Webkul_CustomRegistration 
-Download,Descargar,module,Webkul_CustomRegistration 
-Address Information,Datos del Domicilio,module,Webkul_CustomRegistration 
-Billing Address,Dirección de Envio,module,Webkul_CustomRegistration 
-Shipping Address,Dirección de Envío,module,Webkul_CustomRegistration 
-Terms & Conditions ,Términos y condiciones,module,Webkul_CustomRegistration 
-and,y,module,Webkul_CustomRegistration 
-My Attribute,Mi atributo,module,Webkul_CustomRegistration 
-label,etiqueta,module,Webkul_CustomRegistration 
-Preview Image,Imagen de vista previa,module,Webkul_CustomRegistration 
-Items,Artículos,module,Webkul_CustomRegistration 
-Qty,Cant.,module,Webkul_CustomRegistration 
-Price,Precio,module,Webkul_CustomRegistration 
-Gift Message for this Order,Mensaje de regalo para este pedido,module,Webkul_CustomRegistration 
-From:,Desde:,module,Webkul_CustomRegistration 
-To:,A:,module,Webkul_CustomRegistration 
-Message:,Mensaje:,module,Webkul_CustomRegistration 
-Customer Registration,Registro de cliente,module,Webkul_CustomRegistration 
-Terms & Conditions and Privacy Setting,Términos y condiciones y configuración de privacidad,module,Webkul_CustomRegistration 
-Enable Terms and Conditions on Registration Page,Habilitar los términos y condiciones en la página de registro,module,Webkul_CustomRegistration 
-Privacy Popup Model Heading,Encabezado del modelo emergente de privacidad,module,Webkul_CustomRegistration 
-Term and Condition Popup Model Heading,Título del modelo emergente de término y condición,module,Webkul_CustomRegistration 
-Model Button Text,Texto del botón de modelo,module,Webkul_CustomRegistration 
-Button Text Color,Color del texto del botón,module,Webkul_CustomRegistration 
-"Save hexa code e.g: #FFFFFF, leave blank for default","Guarde el código hexa, por ejemplo: #FFFFFF, déjelo en blanco por defecto",module,Webkul_CustomRegistration 
-Model Button Color,Modelo Color del botón,module,Webkul_CustomRegistration 
-Model Header Background Color,Color de fondo del encabezado del modelo,module,Webkul_CustomRegistration 
-Model Background Color,Color de fondo del modelo,module,Webkul_CustomRegistration 
-Model Animation Type,Tipo de animación de modelo,module,Webkul_CustomRegistration 
-Show Content as,Mostrar contenido como,module,Webkul_CustomRegistration 
-Terms & Conditions,Términos y condiciones,module,Webkul_CustomRegistration 
-Privacy & Cookie Policy,Política de privacidad y cookies,module,Webkul_CustomRegistration 
-Enable/Disable Address Information,Activar / desactivar información de dirección,module,Webkul_CustomRegistration 
-Enable Address Fields,Habilitar campos de dirección,module,Webkul_CustomRegistration 
-Add New Field,Agregar nuevo campo,module,Webkul_CustomRegistration 
-ID,ID,module,Webkul_CustomRegistration 
-Show in Transactional Email,Mostrar en correo electrónico transaccional,module,Webkul_CustomRegistration 
-Additional Account Information,Información adicional de la cuenta,module,Webkul_CustomRegistration 
-Invalid File Extension. Allowed extensions are %1,Extensión de archivo inválida. Las extensiones permitidas son %1,module,Webkul_CustomRegistration 
-%1' is not a valid file.,%1 'no es un archivo válido.,module,Webkul_CustomRegistration 
-No Additional Account Information,Sin información adicional de la cuenta,module,Webkul_CustomRegistration 
-Manage Labels,Administrar etiquetas,module,Webkul_CustomRegistration 
-Custom Registration Settings,Configuración de registro personalizada,module,Webkul_CustomRegistration 
-Confirm,Confirmar,module,Webkul_CustomRegistration 
-Are you sure you wan't to enable?,¿Estás seguro de que no quieres habilitarlo?,module,Webkul_CustomRegistration 
-$_FILES array is empty.,La matriz $ _FILES está vacía.,module,Webkul_CustomRegistration 
+Yes (Recommended),Si (recomendado),module,WeltPixel_Backend 
+You can enter the license key(s),Puede ingresar la (s) clave (s) de licencia,module,WeltPixel_Backend 
+Action that activates zoom,Acción que activa el zoom,module,WeltPixel_Quickview 
+Add to Cart,Añadir al Carrito,module,WeltPixel_Quickview 
+After adding product to cart close quickview in X seconds,"Después de agregar el producto al carrito, cierre la vista rápida en X segundos",module,WeltPixel_Quickview 
+Auto scroll to top and open quick ,Desplazamiento automático hacia arriba y apertura rápida,module,WeltPixel_Quickview 
+Button Style,Estilo de botón,module,WeltPixel_Quickview 
+Click,Click,module,WeltPixel_Quickview 
+Continue Shopping,Seguir Comprando,module,WeltPixel_Quickview 
+Custom CSS,CSS personalizado,module,WeltPixel_Quickview 
+Enable continue shopping/go to checkout buttons,Habilite los botones continuar comprando / ir a la caja,module,WeltPixel_Quickview 
+Enable go to product button,Habilitar el botón ir al producto,module,WeltPixel_Quickview 
+Enable on product listing,Habilitar en la lista de productos,module,WeltPixel_Quickview 
+Enable zoom,Habilitar zoom,module,WeltPixel_Quickview 
+False,Falso,module,WeltPixel_Quickview 
+General,General,module,WeltPixel_Quickview 
+Go To Checkout,Ir a Pagar,module,WeltPixel_Quickview 
+Go To Product,Ver Producto,module,WeltPixel_Quickview 
+Height of magnifier block,Altura del bloque de lupa,module,WeltPixel_Quickview 
+Hover,Encima,module,WeltPixel_Quickview 
+Left position of magnifier,Posición izquierda de la lupa,module,WeltPixel_Quickview 
+Qty,Cant.,module,WeltPixel_Quickview 
+Quick View and Ajax Cart,Vista rápida y carrito Ajax,module,WeltPixel_Quickview 
+Quickview,Vista Rápida,module,WeltPixel_Quickview 
+Remove availability,Eliminar disponibilidad,module,WeltPixel_Quickview 
+Remove product image,Eliminar imagen de producto,module,WeltPixel_Quickview 
+Remove product image thumb,Quitar la miniatura de la imagen del producto,module,WeltPixel_Quickview 
+Remove qty selector,Quitar selector de cantidad,module,WeltPixel_Quickview 
+Remove short description,Eliminar descripción breve,module,WeltPixel_Quickview 
+Remove sku,Quitar sku,module,WeltPixel_Quickview 
+Top position of magnifier,Posición superior de la lupa,module,WeltPixel_Quickview 
+True,Cierto,module,WeltPixel_Quickview 
+Width of magnifier block,Ancho del bloque de lupa,module,WeltPixel_Quickview 
+Zoom of fullscreen,Zoom de pantalla completa,module,WeltPixel_Quickview 
