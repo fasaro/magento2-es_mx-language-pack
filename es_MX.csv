@@ -24978,8 +24978,8 @@ Your user e-mail does not exist. Please check data and retry later," ""Tu direcc
 <br/> Status Detail: %1,<br/> Detalle del Estado: %1,module,MercadoPago_Core 
 <br/> Status: %1,<br/> Estado: %1,module,MercadoPago_Core 
 "A file named mercadopago.log will be created in your store's log folder (var/log). This file will contain the module debug, where it will help to understand the behavior of the module.",Un archivo llamado mercadopago.log será creado en la carpeta de logs (var/log) para detallar el comportamiento del módulo.,module,MercadoPago_Core 
-Address,Dirrección,module,MercadoPago_Core 
-Address required,Obligatorio completar la dirrección,module,MercadoPago_Core 
+Address,Dirección,module,MercadoPago_Core 
+Address required,Obligatorio completar la dirección,module,MercadoPago_Core 
 Advanced,Avanzado,module,MercadoPago_Core 
 Already posted the same request in the last minute.," ""El mismo request ya fue enviado en el último minuto""",module,MercadoPago_Core 
 Already posted the same request in the last minute.," ""Realizaste un pago similar hace instantes. Intenta nuevamente en unos minutos.""",module,MercadoPago_Core 
@@ -25157,7 +25157,7 @@ Not valid action - partial refund unsupported for this transaction.," ""Acción 
 notificaction_url atributte must be shorter than 500 character.," ""El parámetro notification_url debe tener una longitud menor a 500 caracteres""",module,MercadoPago_Core 
 notificaction_url atributte must be url valid.," ""El parámetro notification_url debe ser una url válida""",module,MercadoPago_Core 
 Number,Número,module,MercadoPago_Core 
-Number Address required,Obligatorio completar el Número de dirrección,module,MercadoPago_Core 
+Number Address required,Obligatorio completar el Número de dirección,module,MercadoPago_Core 
 Number of rows exceeded the limits.," ""El número de filas excede el límite""",module,MercadoPago_Core 
 Order creation email,Email de creación de orden,module,MercadoPago_Core 
 Order Management,Administración de orden,module,MercadoPago_Core 
