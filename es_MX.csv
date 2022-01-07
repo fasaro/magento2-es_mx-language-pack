@@ -9110,6 +9110,7 @@ Update,Actualizar,module,Magento_Checkout
 Update Cart,Actualizar,module,Magento_Checkout
 Update Shopping Cart,Actualizar la Compra ,module,Magento_Checkout
 View and edit cart,Ver Carrito,module,Magento_Checkout
+View Cart,Ver Carrito,module,Magento_Checkout
 View Details,Ver Detalles,module,Magento_Checkout
 We adjusted product quantities to fit the required increments.,Hemos ajustado las cantidades de productos para adaptarse a los incrementos requeridos.,module,Magento_Checkout
 We can't add this item to your shopping cart right now.,No podemos agregar este artículo a su carrito de compras en este momento.,module,Magento_Checkout
