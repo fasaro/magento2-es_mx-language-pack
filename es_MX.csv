@@ -16090,17 +16090,17 @@ Error Email Template,Error en la plantilla del mensaje,module,Magento_ProductAle
 Frequency,Frecuencia,module,Magento_ProductAlert
 In stock alert! We wanted you to know that these products are now available:,¡Alerta en stock! Queríamos que supieras que estos productos están ahora disponibles:,module,Magento_ProductAlert
 Invalid block type: %1,Tipo de bloque inválido: %1,module,Magento_ProductAlert
-Notify me when the price drops,Avisarme cuando baje de precio,module,Magento_ProductAlert
-Notify me when this product is in stock,Avísame cuando esté disponible,module,Magento_ProductAlert
+Notify me when the price drops,Notifíqueme cuando el precio cae,module,Magento_ProductAlert
+Notify me when this product is in stock,Notificarme cuando este producto vuelva a stock,module,Magento_ProductAlert
 Price Alert Email Template,Plantilla de correo eléctronico de alerta de precio,module,Magento_ProductAlert
 Price change alert! We wanted you to know that prices have changed for these products:,¡Alerta de cambio de precio! Queríamos que supieras que han cambiado los precios de estos productos:,module,Magento_ProductAlert
 Price:,Precio:,module,Magento_ProductAlert
 Product Alerts,Alertas de artículo,module,Magento_ProductAlert
-Product alerts Cron error,Product alerts Cron error,module,Magento_ProductAlert
-Product alerts cron warnings,Advertencias de alertas cron de productos,module,Magento_ProductAlert
+Product alerts Cron error,Error Cron - alerta de productos,module,Magento_ProductAlert
+Product alerts cron warnings,Advertencia  Cron – alerta de productos,module,Magento_ProductAlert
 Product Alerts Run Settings,Configuración de la función de alertas de artículo,module,Magento_ProductAlert
-Products back in stock alert,Products back in stock alert,module,Magento_ProductAlert
-Products price changed alert,Products price changed alert,module,Magento_ProductAlert
+Products back in stock alert,Aviso de Productos - Ya lo tenemos disponible!,module,Magento_ProductAlert
+Products price changed alert,Aviso de Precio - El precio ha cambiado!,module,Magento_ProductAlert
 Sign up for price alert,Incribirse para alerta de precio,module,Magento_ProductAlert
 Sign up to be notified when this product is back in stock.,Regístrese para ser notificado cuando este producto esté en stock.,module,Magento_ProductAlert
 Start Time,Tiempo de inicio,module,Magento_ProductAlert
