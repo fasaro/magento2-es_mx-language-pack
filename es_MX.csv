@@ -134,7 +134,7 @@ Password:,Password:,module,Magento_ThemeFrontendLuma
 Password you set when creating account,Password you set when creating account,module,Magento_ThemeFrontendLuma
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",module,Magento_ThemeFrontendLuma
 "When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_ThemeFrontendLuma
-Proceed through checkout faster,Proceed through checkout faster,module,Magento_ThemeFrontendLuma
+Proceed through checkout faster,Paga más rápido,module,Magento_ThemeFrontendLuma
 Check the status of orders,Check the status of orders,module,Magento_ThemeFrontendLuma
 View past orders,View past orders,module,Magento_ThemeFrontendLuma
 Store alternative addresses (for shipping to multiple family members and friends),Store alternative addresses (for shipping to multiple family members and friends),module,Magento_Customer
@@ -745,7 +745,7 @@ Memo Total,Memo Total,module,Magento_Sales
 Credit Memo History,Credit Memo History,module,Magento_Sales
 Credit Memo Totals,Credit Memo Totals,module,Magento_Sales
 Customer Name: %1,Customer Name: %1,module,Magento_Sales
-Purchased From: %1,Purchased From: %1,module,Magento_Sales
+Purchased From: %1,Comprado en: %1,module,Magento_Sales
 Gift Message,Gift Message,module,Magento_Bundle
 From:,From:,module,Magento_Bundle
 To:,To:,module,Magento_Bundle
@@ -776,7 +776,7 @@ The order confirmation email was sent,The order confirmation email was sent,modu
 The order confirmation email is not sent,The order confirmation email is not sent,module,Magento_Sales
 Order Date,Order Date,module,Magento_Sales
 Order Date (%1),Order Date (%1),module,Magento_Sales
-Purchased From,Purchased From,module,Magento_Sales
+Purchased From,Comprado en,module,Magento_Sales
 Link to the New Order,Link to the New Order,module,Magento_Sales
 Link to the Previous Order,Link to the Previous Order,module,Magento_Sales
 Placed from IP,Placed from IP,module,Magento_Sales
@@ -866,7 +866,7 @@ Sales Section,Sales Section,module,Magento_Sales
 Sales Emails Section,Sales Emails Section,module,Magento_Sales
 Hide Customer IP,Hide Customer IP,module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",module,Magento_Sales
-Checkout Totals Sort Order,Checkout Totals Sort Order,module,Magento_Sales
+Checkout Totals Sort Order,Orden de totales,module,Magento_Sales
 Allow Reorder,Allow Reorder,module,Magento_Sales
 Invoice and Packing Slip Design,Invoice and Packing Slip Design,module,Magento_Sales
 Logo for PDF Print-outs (200x50),Logo for PDF Print-outs (200x50),module,Magento_Sales
@@ -882,7 +882,7 @@ Include Tax to Amount,Include Tax to Amount,module,Magento_Sales
 Description Message,Description Message,module,Magento_Sales
 This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.,This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.,module,Magento_Sales
 Error to Show in Shopping Cart,Error to Show in Shopping Cart,module,Magento_Sales
-Validate Each Address Separately in Multi-address Checkout,Validate Each Address Separately in Multi-address Checkout,module,Magento_Sales
+Validate Each Address Separately in Multi-address Checkout,Validar cada dirección por separado,module,Magento_Sales
 Multi-address Description Message,Multi-address Description Message,module,Magento_Sales
 We'll use the default description above if you leave this empty.,We'll use the default description above if you leave this empty.,module,Magento_Sales
 Multi-address Error to Show in Shopping Cart,Multi-address Error to Show in Shopping Cart,module,Magento_Sales
@@ -963,13 +963,13 @@ Original Price,Original Price,module,Magento_Sales
 Tax Percent,Tax Percent,module,Magento_Sales
 All Store Views,All Store Views,module,Mageplaza_BannerSlider
 PDF Credit Memos,PDF Credit Memos,module,Magento_Sales
-Purchase Point,Purchase Point,module,Magento_Paypal
+Purchase Point,Punto de compra,module,Magento_Paypal
 Print Invoices,Print Invoices,module,Magento_Sales
 Print Packing Slips,Print Packing Slips,module,Magento_Sales
 Print Credit Memos,Print Credit Memos,module,Magento_Sales
 Print All,Print All,module,Magento_Sales
 Print Shipping Labels,Print Shipping Labels,module,Magento_Sales
-Purchase Date,Purchase Date,module,Amasty_Mostviewed
+Purchase Date,Fecha de compra,module,Amasty_Mostviewed
 Grand Total (Base),Grand Total (Base),module,Amasty_Mostviewed
 Grand Total (Purchased),Grand Total (Purchased),module,Amasty_Mostviewed
 Customer Email,Customer Email,module,Mageplaza_Smtp
@@ -2410,7 +2410,7 @@ The option instance type in options group is incorrect.,The option instance type
 The product instance type in options group is incorrect.,The product instance type in options group is incorrect.,module,Magento_Catalog
 The configuration item option instance in options group is incorrect.,The configuration item option instance in options group is incorrect.,module,Magento_Catalog
 The configuration item instance in options group is incorrect.,The configuration item instance in options group is incorrect.,module,Magento_Catalog
-The BuyRequest instance in options group is incorrect.,The BuyRequest instance in options group is incorrect.,module,Magento_Catalog
+The BuyRequest instance in options group is incorrect.,La solicitud de compra en opciones es incorrecta.,module,Magento_Catalog
 We can't add the product to the cart because of an option validation issue.,We can't add the product to the cart because of an option validation issue.,module,Magento_Catalog
 %1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType,%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType,module,Magento_Catalog
 The file options format is invalid. Use a correct format and try again.,The file options format is invalid. Use a correct format and try again.,module,Magento_Catalog
@@ -2626,9 +2626,9 @@ Select Visible,Select Visible,module,Magento_Backend
 Unselect Visible,Unselect Visible,module,Magento_Backend
 Special Price,Special Price,module,Magento_ConfigurableProduct
 Regular Price,Regular Price,module,Amasty_XsearchHyvaCompatibility
-Buy %1 for:,Buy %1 for:,module,Magento_Catalog
+Buy %1 for:,Compra %1 por:,module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
-Buy %1 for %2 each,Buy %1 for %2 each,module,Magento_Catalog
+Buy %1 for %2 each,Compra %1 por %2 c/u,module,Magento_Catalog
 "You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
 Shop By,Shop By,module,Amasty_ShopbyHyvaCompatibility
 Shopping Options,Shopping Options,module,Magento_LayeredNavigation
@@ -3013,17 +3013,17 @@ Invalid stock item id: %1. Should be null or numeric value greater than 0,Invali
 Invalid stock item id: %1. Assigned stock item id is %2,Invalid stock item id: %1. Assigned stock item id is %2,module,Magento_CatalogInventory
 Not all of your products are available in the requested quantity.,Not all of your products are available in the requested quantity.,module,Magento_InventorySourceDeductionApi
 "Product with SKU ""%1"" does not exist","Product with SKU ""%1"" does not exist",module,Magento_CatalogInventory
-The fewest you may purchase is %1.,The fewest you may purchase is %1.,module,Magento_CatalogInventory
+The fewest you may purchase is %1.,El mínimo es %1.,module,Magento_CatalogInventory
 Please correct the quantity for some products.,Please correct the quantity for some products.,module,Magento_CatalogInventory
-The most you may purchase is %1.,The most you may purchase is %1.,module,Magento_CatalogInventory
+The most you may purchase is %1.,El máximo es %1.,module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested.","We don't have as many ""%1"" as you requested.",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.",module,Magento_CatalogInventory
-You can buy %1 only in quantities of %2 at a time.,You can buy %1 only in quantities of %2 at a time.,module,Magento_CatalogInventory
+You can buy %1 only in quantities of %2 at a time.,Solo puedes comprar %1 en múltiplos de %2.,module,Magento_CatalogInventory
 You can buy this product only in quantities of %1 at a time.,You can buy this product only in quantities of %1 at a time.,module,Magento_InventorySales
 Decimal qty increments is not allowed.,Decimal qty increments is not allowed.,module,Magento_CatalogInventory
 Stock Status,Stock Status,module,Magento_CatalogInventory
-%1 is available to buy in increments of %2,%1 is available to buy in increments of %2,module,Magento_CatalogInventory
+%1 is available to buy in increments of %2,%1 se vende en múltiplos de %2,module,Magento_CatalogInventory
 Only %1 left,Only %1 left,module,Magento_InventoryConfigurableProductFrontendUi
 Product availability,Product availability,module,Magento_CatalogInventory
 Inventory Section,Inventory Section,module,Magento_CatalogInventory
@@ -3159,8 +3159,8 @@ Sign Out,Sign Out,module,Magento_Backend
 Sign In,Ingresar,module,Magento_Checkout
 You are subscribed to our newsletter.,You are subscribed to our newsletter.,module,Magento_Customer
 You aren't subscribed to our newsletter.,You aren't subscribed to our newsletter.,module,Magento_Customer
-You have not set a default shipping address.,You have not set a default shipping address.,module,Magento_Customer
-You have not set a default billing address.,You have not set a default billing address.,module,Magento_Customer
+You have not set a default shipping address.,No tienes dirección de envío predeterminada.,module,Magento_Customer
+You have not set a default billing address.,No tienes dirección de cobro predeterminada.,module,Magento_Customer
 Address Book,Address Book,module,Magento_ThemeFrontendLuma
 Edit Address,Edit Address,module,Magento_Multishipping
 region,region,module,Magento_Customer
@@ -3183,14 +3183,14 @@ Sent,Sent,module,Mageplaza_AbandonedCartEmail
 Not Sent,Not Sent,module,Magento_Newsletter
 Sending,Sending,module,Magento_Newsletter
 Paused,Paused,module,Magento_Newsletter
-Purchased,Purchased,module,Magento_Paypal
+Purchased,Comprado,module,Magento_Paypal
 Customer View,Customer View,module,Magento_Backend
 There are no items in customer's shopping cart.,There are no items in customer's shopping cart.,module,Magento_Customer
 Confirmed,Confirmed,module,Magento_Customer
 Confirmation Required,Confirmation Required,module,Magento_Customer
 Confirmation Not Required,Confirmation Not Required,module,Magento_Customer
 Indeterminate,Indeterminate,module,Magento_Customer
-The customer does not have default billing address.,The customer does not have default billing address.,module,Magento_Customer
+The customer does not have default billing address.,El cliente no tiene dirección de cobro predeterminada.,module,Magento_Customer
 Offline,Offline,module,Magento_Customer
 Online,Online,module,Magento_Customer
 Never,Never,module,Amasty_ShopbySeo
@@ -3357,12 +3357,12 @@ Account Created:,Account Created:,module,Magento_Customer
 Account Created on (%1):,Account Created on (%1):,module,Magento_Customer
 Account Created in:,Account Created in:,module,Magento_Customer
 Customer Group:,Customer Group:,module,Magento_Customer
-Default Billing Address,Default Billing Address,module,Magento_Customer
+Default Billing Address,Dirección de cobro predeterminada,module,Magento_Customer
 Sales Statistics,Sales Statistics,module,Magento_Customer
 Lifetime Sales,Lifetime Sales,module,Magento_Backend
 Average Sale,Average Sale,module,Magento_Customer
 Manage Addresses,Manage Addresses,module,Magento_ThemeFrontendLuma
-Default Shipping Address,Default Shipping Address,module,Magento_Customer
+Default Shipping Address,Dirección de envío predeterminada,module,Magento_Customer
 Contact Information,Contact Information,module,Magento_Securitytxt
 Change Password,Change Password,module,Amasty_Aminvisiblecaptcha
 Newsletters,Newsletters,module,Magento_Customer
@@ -3370,17 +3370,17 @@ Newsletters,Newsletters,module,Magento_Customer
 or,or,module,Amasty_SocialLoginHyva
 Default Addresses,Default Addresses,module,Magento_Customer
 Change Billing Address,Change Billing Address,module,Magento_Multishipping
-You have no default billing address in your address book.,You have no default billing address in your address book.,module,Magento_Customer
+You have no default billing address in your address book.,No tienes dirección de cobro predeterminada.,module,Magento_Customer
 Change Shipping Address,Change Shipping Address,module,Magento_Customer
-You have no default shipping address in your address book.,You have no default shipping address in your address book.,module,Magento_Customer
+You have no default shipping address in your address book.,No tienes dirección de envío predeterminada.,module,Magento_Customer
 Additional Address Entries,Additional Address Entries,module,Magento_Customer
 Delete Address,Delete Address,module,Magento_Customer
 You have no other address entries in your address book.,You have no other address entries in your address book.,module,Magento_Customer
 Street Address %1,Street Address %1,module,Magento_Customer
-It's a default billing address.,It's a default billing address.,module,Magento_Customer
-Use as my default billing address,Use as my default billing address,module,Magento_Customer
-It's a default shipping address.,It's a default shipping address.,module,Magento_Customer
-Use as my default shipping address,Use as my default shipping address,module,Magento_Customer
+It's a default billing address.,Es dirección de cobro predeterminada.,module,Magento_Customer
+Use as my default billing address,Usar como dirección de cobro,module,Magento_Customer
+It's a default shipping address.,Es dirección de envío predeterminada.,module,Magento_Customer
+Use as my default shipping address,Usar como dirección de envío,module,Magento_Customer
 Save Address,Save Address,module,Magento_Checkout
 Go back,Go back,module,Magepal_Magento2GuestToCustomer
 Please enter your email below and we will send you the confirmation link.,Please enter your email below and we will send you the confirmation link.,module,Magento_Customer
@@ -3425,19 +3425,19 @@ Reset your %store_name password,Reset your %store_name password,module,Magento_C
 "If you requested this change, set a new password here:","If you requested this change, set a new password here:",module,Magento_Customer
 Your %store_name password has been changed,Your %store_name password has been changed,module,Magento_Customer
 We have received a request to change the following information associated with your account at %store_name: password.,We have received a request to change the following information associated with your account at %store_name: password.,module,Magento_Customer
-Checkout as a new customer,Checkout as a new customer,module,Magento_Customer
+Checkout as a new customer,Pagar como nuevo cliente,module,Magento_Customer
 Creating an account has many benefits:,Creating an account has many benefits:,module,Magento_Customer
 See order and shipping status,See order and shipping status,module,Magento_Customer
 Track order history,Track order history,module,Magento_Customer
 Check out faster,Check out faster,module,Magento_Customer
-Checkout using your account,Checkout using your account,module,Magento_Customer
+Checkout using your account,Pagar con tu cuenta,module,Magento_Customer
 Email Address,Email Address,module,Magento_Checkout
 Are you sure you want to delete this address?,Are you sure you want to delete this address?,module,Magento_Customer
 Weak,Weak,module,Magento_Customer
 Medium,Medium,module,Magento_Customer
 Strong,Strong,module,Magento_Customer
 Very Strong,Very Strong,module,Magento_Customer
-Guest checkout is disabled.,Guest checkout is disabled.,module,Magento_Checkout
+Guest checkout is disabled.,Pago como invitado desactivado.,module,Magento_Checkout
 All Customers,All Customers,module,Magento_Customer
 Now Online,Now Online,module,Magento_Customer
 Customers Section,Customers Section,module,Magento_Customer
@@ -3649,7 +3649,7 @@ inline,inline,module,Magento_Downloadable
 To enable the option set the weight to no,To enable the option set the weight to no,module,Magento_Downloadable
 Is this downloadable Product?,Is this downloadable Product?,module,Magento_Downloadable
 Links,Links,module,Amasty_HtmlSitemap
-Links can be purchased separately,Links can be purchased separately,module,Magento_Downloadable
+Links can be purchased separately,Los enlaces se venden por separado,module,Magento_Downloadable
 "Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.",module,Magento_Downloadable
 Add Link,Add Link,module,Magento_Downloadable
 File,File,module,Magento_Downloadable
@@ -3682,8 +3682,8 @@ Default Sample Title,Default Sample Title,module,Magento_Downloadable
 Default Link Title,Default Link Title,module,Magento_Downloadable
 Open Links in New Window,Open Links in New Window,module,Magento_Downloadable
 Use Content-Disposition,Use Content-Disposition,module,Magento_Downloadable
-Disable Guest Checkout if Cart Contains Downloadable Items,Disable Guest Checkout if Cart Contains Downloadable Items,module,Magento_Downloadable
-Guest checkout will only work with shareable.,Guest checkout will only work with shareable.,module,Magento_Downloadable
+Disable Guest Checkout if Cart Contains Downloadable Items,Desactivar invitado si hay descargas,module,Magento_Downloadable
+Guest checkout will only work with shareable.,El pago como invitado solo funciona con compartibles.,module,Magento_Downloadable
 Link URL's domain is not in list of downloadable_domains in env.php.,Link URL's domain is not in list of downloadable_domains in env.php.,module,Magento_Downloadable
 Sample URL's domain is not in list of downloadable_domains in env.php.,Sample URL's domain is not in list of downloadable_domains in env.php.,module,Magento_Downloadable
 Gift Messages are not applicable for empty cart,Gift Messages are not applicable for empty cart,module,Magento_GiftMessage
@@ -3822,7 +3822,7 @@ If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:
 Percent of product price discount,Percent of product price discount,module,Magento_SalesRule
 Fixed amount discount,Fixed amount discount,module,Magento_SalesRule
 Fixed amount discount for whole cart,Fixed amount discount for whole cart,module,Magento_SalesRule
-Buy X get Y free (discount amount is Y),Buy X get Y free (discount amount is Y),module,Magento_SalesRule
+Buy X get Y free (discount amount is Y),Compra X y llévate Y gratis,module,Magento_SalesRule
 Specified rule does not allow automatic coupon generation,Specified rule does not allow automatic coupon generation,module,Magento_SalesRule
 Error occurred when generating coupons: %1,Error occurred when generating coupons: %1,module,Magento_SalesRule
 Some coupons are invalid.,Some coupons are invalid.,module,Magento_SalesRule
@@ -3847,7 +3847,7 @@ Usage limit enforced for logged in customers only.,Usage limit enforced for logg
 Uses per Customer,Uses per Customer,module,Magento_SalesRule
 Public In RSS Feed,Public In RSS Feed,module,Magento_SalesRule
 Maximum Qty Discount is Applied To,Maximum Qty Discount is Applied To,module,Magento_SalesRule
-Discount Qty Step (Buy X),Discount Qty Step (Buy X),module,Magento_SalesRule
+Discount Qty Step (Buy X),Paso de descuento,module,Magento_SalesRule
 Discount amount is applied to subtotal only,Discount amount is applied to subtotal only,module,Magento_SalesRule
 Discount amount is applied to subtotal and shipping amount separately,Discount amount is applied to subtotal and shipping amount separately,module,Magento_SalesRule
 Apply to Shipping Amount,Apply to Shipping Amount,module,Magento_SalesRule
@@ -3948,7 +3948,7 @@ Cannot assign customer to the given cart. The cart is not anonymous.,Cannot assi
 Cannot assign customer to the given cart. Customer already has active cart.,Cannot assign customer to the given cart. Customer already has active cart.,module,Magento_Quote
 An error occurred on the server. Please try to place the order again.,An error occurred on the server. Please try to place the order again.,module,Magento_Payment
 Only 1 shipping assignment can be set,Only 1 shipping assignment can be set,module,Magento_Quote
-This item price or quantity is not valid for checkout.,This item price or quantity is not valid for checkout.,module,Magento_Quote
+This item price or quantity is not valid for checkout.,Precio o cantidad no válida.,module,Magento_Quote
 Please check the shipping address information. %1,Please check the shipping address information. %1,module,Magento_Quote
 Some addresses cannot be used due to country-specific configurations.,Some addresses cannot be used due to country-specific configurations.,module,Magento_Multishipping
 Please check the billing address information. %1,Please check the billing address information. %1,module,Magento_Quote
@@ -4096,11 +4096,11 @@ We can't remove the item.,We can't remove the item.,module,Magento_Checkout
 %1 was updated in your shopping cart.,%1 was updated in your shopping cart.,module,Magento_Checkout
 We can't update the item right now.,We can't update the item right now.,module,Magento_Checkout
 We can't update the shopping cart.,We can't update the shopping cart.,module,Magento_Checkout
-One-page checkout is turned off.,One-page checkout is turned off.,module,Magento_Checkout
+One-page checkout is turned off.,Pago en una página desactivado.,module,Magento_Checkout
 Checkout,Pagar,regional,Latam
 Please agree to all the terms and conditions before placing the order.,Please agree to all the terms and conditions before placing the order.,module,Paypal_BraintreeCore
 Something went wrong while processing your order. Please try again later.,Something went wrong while processing your order. Please try again later.,module,Magento_Checkout
-%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface,%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface,module,Magento_Checkout
+%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface,%1 no extiende \Magento\Checkout\CustomerData\ItemInterface,module,Magento_Checkout
 Payment Page,Payment Page,module,Magento_Checkout
 We don't have some of the products you want.,We don't have some of the products you want.,module,Magento_Checkout
 We don't have as many of some products as you want.,We don't have as many of some products as you want.,module,Magento_Checkout
@@ -4115,7 +4115,7 @@ Totals calculation is not applicable to empty cart,Totals calculation is not app
 The customer address is not valid.,The customer address is not valid.,module,Magento_Checkout
 Invalid shipping method,Invalid shipping method,module,Magento_Checkout
 There are more than one shipping addresses.,There are more than one shipping addresses.,module,Magento_Checkout
-"Sorry, guest checkout is not available.","Sorry, guest checkout is not available.",module,Magento_Checkout
+"Sorry, guest checkout is not available.","Lo sentimos, no hay pago como invitado.",module,Magento_Checkout
 Load customer quote error,Load customer quote error,module,Magento_Checkout
 Error message!,Error message!,module,Magento_Checkout
 Error!,Error!,module,Magento_Checkout
@@ -4138,13 +4138,13 @@ We'll email you an order confirmation with details and tracking info.,We'll emai
 Payment Transaction Failed Reminder,Payment Transaction Failed Reminder,module,Magento_Checkout
 Payment Transaction Failed,Payment Transaction Failed,module,Magento_Checkout
 Reason,Reason,module,Amasty_RmaHyva
-Checkout Type,Checkout Type,module,Mollie_Magento2
+Checkout Type,Tipo de pago,module,Mollie_Magento2
 Customer:,Customer:,module,Magento_Checkout
 Total:,Total:,module,Magento_Checkout
 Date & Time:,Date & Time:,module,Magento_Checkout
 My billing and shipping address are the same,My billing and shipping address are the same,module,Magento_Checkout
 Estimated Total,Estimated Total,module,Magento_Checkout
-You can create an account after checkout.,You can create an account after checkout.,module,Magento_Checkout
+You can create an account after checkout.,Puedes crear una cuenta después.,module,Magento_Checkout
 You already have an account with us. Sign in or continue as guest.,You already have an account with us. Sign in or continue as guest.,module,Magento_Checkout
 Login,Login,module,Amasty_SocialLoginHyva
 Cart Subtotal,Cart Subtotal,module,Magento_Checkout
@@ -4168,9 +4168,9 @@ New Address,New Address,module,Magento_Checkout
 Are you sure you would like to remove this item from the shopping cart?,Are you sure you would like to remove this item from the shopping cart?,module,Magento_Checkout
 Review & Payments,Review & Payments,module,Magento_Checkout
 Select a new payment method,Select a new payment method,module,Magento_Checkout
-Checkout Options,Checkout Options,module,Magento_Checkout
-Enable Onepage Checkout,Enable Onepage Checkout,module,Magento_Checkout
-Allow Guest Checkout,Allow Guest Checkout,module,Magento_Checkout
+Checkout Options,Opciones de pago,module,Magento_Checkout
+Enable Onepage Checkout,Activar pago en una página,module,Magento_Checkout
+Allow Guest Checkout,Permitir invitado,module,Magento_Checkout
 Display Billing Address On,Display Billing Address On,module,Magento_Checkout
 Maximum Number of Items to Display in Order Summary,Maximum Number of Items to Display in Order Summary,module,Magento_Checkout
 Quote Lifetime (days),Quote Lifetime (days),module,Magento_Checkout
@@ -4184,18 +4184,18 @@ Mini Cart,Mini Cart,module,Magento_Paypal
 Display Mini Cart,Display Mini Cart,module,Magento_Checkout
 Number of Items to Display Scrollbar,Number of Items to Display Scrollbar,module,Magento_Checkout
 Maximum Number of Items to Display,Maximum Number of Items to Display,module,Magento_Checkout
-Payment Failed Emails,Payment Failed Emails,module,Magento_Checkout
-Payment Failed Email Sender,Payment Failed Email Sender,module,Magento_Checkout
-Payment Failed Email Receiver,Payment Failed Email Receiver,module,Magento_Checkout
+Payment Failed Emails,Correos de pago fallido,module,Magento_Checkout
+Payment Failed Email Sender,Remitente,module,Magento_Checkout
+Payment Failed Email Receiver,Destinatario,module,Magento_Checkout
 Payment Failed Template,Payment Failed Template,module,Magento_Checkout
-Send Payment Failed Email Copy To,Send Payment Failed Email Copy To,module,Magento_Checkout
+Send Payment Failed Email Copy To,Enviar copia a,module,Magento_Checkout
 "Separate by "","".","Separate by "","".",module,Magento_Checkout
-Send Payment Failed Email Copy Method,Send Payment Failed Email Copy Method,module,Magento_Checkout
+Send Payment Failed Email Copy Method,Método de copia,module,Magento_Checkout
 We'll send your order confirmation here.,We'll send your order confirmation here.,module,Magento_Checkout
 Payment,Pago,module,Magento_Checkout
 Selected shipping method is not available. Please select another shipping method for this order.,Selected shipping method is not available. Please select another shipping method for this order.,module,Magento_Checkout
 The order was not successful!,The order was not successful!,module,Magento_Multishipping
-Thank you for your purchase!,Thank you for your purchase!,module,Magento_Multishipping
+Thank you for your purchase!,¡Gracias por tu compra!,module,Magento_Multishipping
 Something went wrong while saving the page. Please refresh the page and try again.,Something went wrong while saving the page. Please refresh the page and try again.,module,Magento_Checkout
 Item in Cart,Item in Cart,module,Magento_Checkout
 Items in Cart,Items in Cart,module,Magento_Reports
@@ -4244,7 +4244,7 @@ We can't find records for this period.,We can't find records for this period.,mo
 Show Reviews,Show Reviews,module,Magento_Reports
 Products Report,Products Report,module,Magento_Reports
 Link,Link,module,Amasty_MessengerWidget
-Purchases,Purchases,module,Magento_Reports
+Purchases,Compras,module,Magento_Reports
 Low stock,Low stock,module,Magento_Reports
 Products Ordered,Products Ordered,module,Magento_Reports
 Most Viewed,Most Viewed,module,Amasty_Mostviewed
@@ -4287,7 +4287,7 @@ Abandoned carts,Abandoned carts,module,Magento_Reports
 Applied Coupon,Applied Coupon,module,Magento_Reports
 Products in carts,Products in carts,module,Magento_Reports
 Wish Lists,Wish Lists,module,Magento_Reports
-Wish List Purchase,Wish List Purchase,module,Magento_Reports
+Wish List Purchase,Compra de lista,module,Magento_Reports
 Wish List vs. Regular Order,Wish List vs. Regular Order,module,Magento_Reports
 Times Deleted,Times Deleted,module,Magento_Reports
 Index type is not valid,Index type is not valid,module,Magento_Reports
@@ -4426,7 +4426,7 @@ Incorrect credit card expiration year.,Incorrect credit card expiration year.,mo
 Payment Methods Section,Payment Methods Section,module,Magento_Payment
 Payment Services,Payment Services,module,Magento_PaymentServicesDashboard
 Payment Methods,Payment Methods,module,Mollie_Magento2
-Zero Subtotal Checkout,Zero Subtotal Checkout,module,Magento_Payment
+Zero Subtotal Checkout,Pago sin subtotal,module,Magento_Payment
 Always,Always,module,Amasty_Shopby
 After number of attempts to login,After number of attempts to login,module,Magento_Captcha
 Provided form does not exist,Provided form does not exist,module,Magento_Captcha
@@ -4479,8 +4479,8 @@ Please specify shipping methods for all addresses.,Please specify shipping metho
 Select Addresses,Select Addresses,module,Magento_Multishipping
 Billing Information,Billing Information,module,Magento_Paypal
 Order Success,Order Success,module,Magento_Multishipping
-Default Billing,Default Billing,module,Magento_Multishipping
-Default Shipping,Default Shipping,module,Magento_Multishipping
+Default Billing,Cobro predeterminado,module,Magento_Multishipping
+Default Shipping,Envío predeterminado,module,Magento_Multishipping
 Select Address,Select Address,module,Magento_Multishipping
 Back to Billing Information,Back to Billing Information,module,Magento_Multishipping
 Please select a shipping address for applicable items.,Please select a shipping address for applicable items.,module,Magento_Multishipping
@@ -6132,7 +6132,7 @@ Grouped Products,Grouped Products,module,Magento_GroupedProduct
 Please specify the quantity of product(s).,Please specify the quantity of product(s).,module,Amasty_ColorSwatchesPro
 Cannot process the item.,Cannot process the item.,module,Magento_GroupedProduct
 Add Products to Group,Add Products to Group,module,Magento_GroupedProduct
-"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.",module,Magento_GroupedProduct
+"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.",Un producto agrupado reúne varios productos independientes. Puedes ofrecer variantes de un mismo producto o agruparlos por temporada o tema. Cada producto se puede comprar por separado o en conjunto.,module,Magento_GroupedProduct
 Default Quantity,Default Quantity,module,Magento_Bundle
 Availability:,Availability:,module,Magento_Bundle
 No options of this product are available.,No options of this product are available.,module,Amasty_MostviewedHyva
@@ -6160,7 +6160,7 @@ For shipping to multiple family members and friends,For shipping to multiple fam
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.",module,Magento_ThemeFrontendLuma
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",module,Magento_ThemeFrontendLuma
 Now Shopping by,Now Shopping by,module,Amasty_Shopby
-Quick Checkout,Quick Checkout,module,Magento_ThemeFrontendLuma
+Quick Checkout,Pago rápido,module,Magento_ThemeFrontendLuma
 Store alternative addresses,Store alternative addresses,module,Magento_ThemeFrontendLuma
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -6206,17 +6206,17 @@ We found nothing to fetch because of an empty configuration.,We found nothing to
 We couldn't finish the billing agreement wizard.,We couldn't finish the billing agreement wizard.,module,Magento_Paypal
 We can't start the billing agreement wizard.,We can't start the billing agreement wizard.,module,Magento_Paypal
 Billing Agreement # %1,Billing Agreement # %1,module,Magento_Paypal
-We can't initialize Express Checkout.,We can't initialize Express Checkout.,module,Magento_Paypal
-PayPal Express Checkout Token does not exist.,PayPal Express Checkout Token does not exist.,module,Magento_Paypal
-A wrong PayPal Express Checkout Token is specified.,A wrong PayPal Express Checkout Token is specified.,module,Magento_Paypal
-Express Checkout and Order have been canceled.,Express Checkout and Order have been canceled.,module,Magento_Paypal
-Express Checkout has been canceled.,Express Checkout has been canceled.,module,Magento_Paypal
-Unable to cancel Express Checkout,Unable to cancel Express Checkout,module,Magento_Paypal
+We can't initialize Express Checkout.,No se pudo iniciar Pago exprés.,module,Magento_Paypal
+PayPal Express Checkout Token does not exist.,No existe el token de Pago exprés de PayPal.,module,Magento_Paypal
+A wrong PayPal Express Checkout Token is specified.,El token de Pago exprés de PayPal es incorrecto.,module,Magento_Paypal
+Express Checkout and Order have been canceled.,Pago exprés y pedido cancelados.,module,Magento_Paypal
+Express Checkout has been canceled.,Pago exprés cancelado.,module,Magento_Paypal
+Unable to cancel Express Checkout,No se pudo cancelar Pago exprés,module,Magento_Paypal
 We can't place the order.,We can't place the order.,module,Magento_Paypal
-We can't process Express Checkout approval.,We can't process Express Checkout approval.,module,Magento_Paypal
-We can't initialize Express Checkout review.,We can't initialize Express Checkout review.,module,Magento_Paypal
+We can't process Express Checkout approval.,No se pudo procesar la aprobación.,module,Magento_Paypal
+We can't initialize Express Checkout review.,No se pudo iniciar la revisión.,module,Magento_Paypal
 We can't update shipping method.,We can't update shipping method.,module,Magento_Paypal
-We can't start Express Checkout.,We can't start Express Checkout.,module,Magento_Paypal
+We can't start Express Checkout.,No se pudo iniciar Pago exprés.,module,Magento_Paypal
 "To check out, please sign in with your email address.","To check out, please sign in with your email address.",module,Magento_PaymentServicesPaypal
 "Sorry, but something went wrong","Sorry, but something went wrong",module,Magento_Paypal
 Your payment has been declined. Please try again.,Your payment has been declined. Please try again.,module,Magento_Paypal
@@ -6258,7 +6258,7 @@ The ordering amount of %1 is pending approval on the payment gateway.,The orderi
 We'll authorize the amount of %1 as soon as the payment gateway approves it.,We'll authorize the amount of %1 as soon as the payment gateway approves it.,module,Magento_Paypal
 The authorized amount is %1.,The authorized amount is %1.,module,Magento_Paypal
 The maximum number of child authorizations is reached.,The maximum number of child authorizations is reached.,module,Magento_Paypal
-"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",module,Magento_Paypal
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal no procesa pedidos con saldo en cero. Para terminar, usa el pago normal.",module,Magento_Paypal
 A payer is not identified.,A payer is not identified.,module,Magento_Paypal
 Cannot get secure form URL from PayPal,Cannot get secure form URL from PayPal,module,Magento_Paypal
 Last Transaction ID,Last Transaction ID,module,Magento_Paypal
@@ -6268,7 +6268,7 @@ The payment eCheck is not cleared.,The payment eCheck is not cleared.,module,Mag
 The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.,The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.,module,Magento_Paypal
 The payment currency doesn't match any of the merchant's balances currency.,The payment currency doesn't match any of the merchant's balances currency.,module,Magento_Paypal
 The payment is pending while it is being reviewed by PayPal for risk.,The payment is pending while it is being reviewed by PayPal for risk.,module,Magento_Paypal
-The payment is pending because it was made to an email address that is not yet registered or confirmed.,The payment is pending because it was made to an email address that is not yet registered or confirmed.,module,Magento_Paypal
+The payment is pending because it was made to an email address that is not yet registered or confirmed.,El pago está pendiente porque se hizo a un correo no registrado o confirmado.,module,Magento_Paypal
 The merchant account is not yet verified.,The merchant account is not yet verified.,module,Magento_Paypal
 The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.,The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.,module,Magento_Paypal
 "Sorry, but something went wrong. Please contact PayPal customer service.","Sorry, but something went wrong. Please contact PayPal customer service.",module,Magento_Paypal
@@ -6282,9 +6282,9 @@ Transaction reversal by PayPal administrators.,Transaction reversal by PayPal ad
 Reimbursement for a chargeback.,Reimbursement for a chargeback.,module,Magento_Paypal
 Settlement of a chargeback.,Settlement of a chargeback.,module,Magento_Paypal
 A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.,A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.,module,Magento_Paypal
-Buyer claims that he did not receive goods or service.,Buyer claims that he did not receive goods or service.,module,Magento_Paypal
-Buyer claims that the goods or service received differ from merchant’s description of the goods or service.,Buyer claims that the goods or service received differ from merchant’s description of the goods or service.,module,Magento_Paypal
-Buyer claims that he/she did not authorize transaction.,Buyer claims that he/she did not authorize transaction.,module,Magento_Paypal
+Buyer claims that he did not receive goods or service.,El comprador dice que no recibió el producto o servicio.,module,Magento_Paypal
+Buyer claims that the goods or service received differ from merchant’s description of the goods or service.,El comprador dice que lo recibido no coincide con la descripción.,module,Magento_Paypal
+Buyer claims that he/she did not authorize transaction.,El comprador dice que no autorizó la transacción.,module,Magento_Paypal
 A case that has been resolved and close requires a reimbursement.,A case that has been resolved and close requires a reimbursement.,module,Magento_Paypal
 Buyer claims that a possible duplicate payment was made to the merchant.,Buyer claims that a possible duplicate payment was made to the merchant.,module,Magento_Paypal
 "Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.",module,Magento_Paypal
@@ -6302,8 +6302,8 @@ CVV2 Check Result by PayPal,CVV2 Check Result by PayPal,module,Magento_Paypal
 AVS Street Match,AVS Street Match,module,Magento_Paypal
 AVS zip,AVS zip,module,Magento_Paypal
 International AVS response,International AVS response,module,Magento_Paypal
-Buyer's Tax ID,Buyer's Tax ID,module,Magento_Paypal
-Buyer's Tax ID Type,Buyer's Tax ID Type,module,Magento_Paypal
+Buyer's Tax ID,RFC del comprador,module,Magento_Paypal
+Buyer's Tax ID Type,Tipo de RFC,module,Magento_Paypal
 Chargeback,Chargeback,module,Magento_Paypal
 Complaint,Complaint,module,Magento_Paypal
 Dispute,Dispute,module,Magento_Paypal
@@ -6390,9 +6390,9 @@ Coupon Redemption,Coupon Redemption,module,Magento_Paypal
 Currency Conversion required to cover negative balance,Currency Conversion required to cover negative balance,module,Magento_Paypal
 Debit Card Cash Back,Debit Card Cash Back,module,Magento_Paypal
 Debit Card Transaction,Debit Card Transaction,module,Magento_Paypal
-Direct Payment API,Direct Payment API,module,Magento_Paypal
+Direct Payment API,API de pago directo,module,Magento_Paypal
 EFT Funding (German banking),EFT Funding (German banking),module,Magento_Paypal
-Express Checkout APIs,Express Checkout APIs,module,Magento_Paypal
+Express Checkout APIs,APIs de Pago exprés,module,Magento_Paypal
 Fee Reversal,Fee Reversal,module,Magento_Paypal
 Fee: Foreign ACH Withdrawal,Fee: Foreign ACH Withdrawal,module,Magento_Paypal
 Fee: Mass Pay Request,Fee: Mass Pay Request,module,Magento_Paypal
@@ -6430,14 +6430,14 @@ Mobile Payment (made via a mobile phone),Mobile Payment (made via a mobile phone
 Negative Balance,Negative Balance,module,Magento_Paypal
 Open Authorization,Open Authorization,module,Magento_Paypal
 PayPal Balance Manager function of PayPal account,PayPal Balance Manager function of PayPal account,module,Magento_Paypal
-PayPal Buyer Warranty Bonus,PayPal Buyer Warranty Bonus,module,Magento_Paypal
+PayPal Buyer Warranty Bonus,Bono de garantía del comprador de PayPal,module,Magento_Paypal
 PayPal Debit Card Cash Advance,PayPal Debit Card Cash Advance,module,Magento_Paypal
 PayPal Debit Card Withdrawal from ATM,PayPal Debit Card Withdrawal from ATM,module,Magento_Paypal
 PayPal Protection Bonus,PayPal Protection Bonus,module,Magento_Paypal
 Payment Refund initiated by merchant,Payment Refund initiated by merchant,module,Magento_Paypal
 Points Incentive Redemption,Points Incentive Redemption,module,Magento_Paypal
 Postage Payment to either USPS or UPS,Postage Payment to either USPS or UPS,module,Magento_Paypal
-"Preapproved Payment (BillUser API, either sent or received","Preapproved Payment (BillUser API, either sent or received",module,Magento_Paypal
+"Preapproved Payment (BillUser API, either sent or received","Pago preaprobado (BillUser API, enviado o recibido",module,Magento_Paypal
 Reauthorization,Reauthorization,module,Magento_Paypal
 Reimbursement of Chargeback,Reimbursement of Chargeback,module,Magento_Paypal
 Reversal,Reversal,module,Magento_Paypal
@@ -6455,7 +6455,7 @@ eBay Auction Payment,eBay Auction Payment,module,Magento_Paypal
 The PayPal certificate file is empty.,The PayPal certificate file is empty.,module,Magento_Paypal
 Header (center),Header (center),module,Magento_Paypal
 Sidebar (right),Sidebar (right),module,Magento_Paypal
-Near PayPal Credit checkout button,Near PayPal Credit checkout button,module,Magento_Paypal
+Near PayPal Credit checkout button,Cerca del botón de PayPal Credit,module,Magento_Paypal
 Every 3 days,Every 3 days,module,Magento_Paypal
 Every 7 days,Every 7 days,module,Magento_Paypal
 Every 10 days,Every 10 days,module,Magento_Paypal
@@ -6495,12 +6495,12 @@ Create...,Create...,module,Magento_Paypal
 Your billing agreement # is:,Your billing agreement # is:,module,Magento_Paypal
 Please select a shipping method...,Please select a shipping method...,module,Magento_PaymentServicesPaypal
 Update Shipping Method,Update Shipping Method,module,Magento_Paypal
-Buy now with PayPal,Buy now with PayPal,module,Magento_PaymentServicesPaypal
+Buy now with PayPal,Compra con PayPal,module,Magento_PaymentServicesPaypal
 Edit Payment Information,Edit Payment Information,module,Magento_PaymentServicesPaypal
 Items in Your Shopping Cart,Items in Your Shopping Cart,module,Magento_PaymentServicesPaypal
 Edit Shopping Cart,Edit Shopping Cart,module,Magento_PaymentServicesPaypal
 Please update order data to get shipping methods and rates,Please update order data to get shipping methods and rates,module,Magento_PaymentServicesPaypal
-Checkout with PayPal,Checkout with PayPal,module,Magento_Paypal
+Checkout with PayPal,Paga con PayPal,module,Magento_Paypal
 Please do not refresh the page until you complete payment.,Please do not refresh the page until you complete payment.,module,Magento_Paypal
 You will be required to enter your payment details after you place an order.,You will be required to enter your payment details after you place an order.,module,Magento_Paypal
 Additional Options,Additional Options,module,Magento_Paypal
@@ -6521,35 +6521,35 @@ Merchant Country,Merchant Country,module,Magento_Paypal
 Recommended Solutions:,Recommended Solutions:,module,Magento_PaymentServicesBase
 Other PayPal Payment Solutions:,Other PayPal Payment Solutions:,module,Magento_Paypal
 Other Payment Methods:,Other Payment Methods:,module,Magento_Paypal
-PayPal Express Checkout,PayPal Express Checkout,module,Magento_Paypal
+PayPal Express Checkout,Pago exprés de PayPal,module,Magento_Paypal
 Add another payment method to your existing solution or as a stand-alone option.,Add another payment method to your existing solution or as a stand-alone option.,module,Magento_Paypal
 PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>,PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>,module,Magento_Paypal
 Choose a secure bundled payment solution for your business.,Choose a secure bundled payment solution for your business.,module,Magento_Paypal
 Payments Pro,Payments Pro,module,Magento_Paypal
-Payments Pro and Express Checkout,Payments Pro and Express Checkout,module,Magento_Paypal
+Payments Pro and Express Checkout,Payments Pro y Pago exprés,module,Magento_Paypal
 Basic Settings - PayPal Payments Pro,Basic Settings - PayPal Payments Pro,module,Magento_Paypal
 PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>,PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>,module,Magento_Paypal
 PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>,PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>,module,Magento_Paypal
-Accept payments with a completely customizable checkout page.,Accept payments with a completely customizable checkout page.,module,Magento_Paypal
+Accept payments with a completely customizable checkout page.,Acepta pagos con una página totalmente personalizable.,module,Magento_Paypal
 Process payments using your own internet merchant account.,Process payments using your own internet merchant account.,module,Magento_Paypal
 Website Payments Pro,Website Payments Pro,module,Magento_Paypal
-Express Checkout,Express Checkout,module,Magento_Paypal
-Add PayPal as an additional payment method to your checkout page.,Add PayPal as an additional payment method to your checkout page.,module,Magento_Paypal
+Express Checkout,Pago exprés,module,Magento_Paypal
+Add PayPal as an additional payment method to your checkout page.,Agrega PayPal como método adicional.,module,Magento_Paypal
 Required PayPal Settings,Required PayPal Settings,module,Magento_Paypal
-Email Associated with PayPal Merchant Account (Optional),Email Associated with PayPal Merchant Account (Optional),module,Magento_Paypal
+Email Associated with PayPal Merchant Account (Optional),Correo de la cuenta PayPal (opcional),module,Magento_Paypal
 "<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>",module,Magento_Paypal
-Don't have a PayPal account? Simply enter your email address.,Don't have a PayPal account? Simply enter your email address.,module,Magento_Paypal
+Don't have a PayPal account? Simply enter your email address.,¿No tienes cuenta PayPal? Solo escribe tu correo.,module,Magento_Paypal
 API Authentication Methods,API Authentication Methods,module,Magento_Paypal
 API Username,API Username,module,Magento_Paypal
 API Password,API Password,module,Magento_Paypal
 Get Credentials from PayPal,Get Credentials from PayPal,module,Magento_Paypal
 Sandbox Mode,Sandbox Mode,module,Magento_Fedex
-Buyer Country,Buyer Country,module,Magento_Paypal
+Buyer Country,País del comprador,module,Magento_Paypal
 API Uses Proxy,API Uses Proxy,module,Magento_Paypal
 Proxy Host,Proxy Host,module,Magento_Paypal
 Proxy Port,Proxy Port,module,Magento_Paypal
 Enable this Solution,Enable this Solution,module,Paypal_BraintreeCore
-Enable In-Context Checkout Experience,Enable In-Context Checkout Experience,module,Magento_Paypal
+Enable In-Context Checkout Experience,Activar pago integrado,module,Magento_Paypal
 "See PayPal Feature Support details and list of supported regions
                     <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","See PayPal Feature Support details and list of supported regions
                     <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.",module,Magento_Paypal
@@ -6580,7 +6580,7 @@ Display,Display,module,Magento_Paypal
 Size,Size,module,Magento_Shipping
 Catalog Category Page,Catalog Category Page,module,Magento_Paypal
 Catalog Product Page,Catalog Product Page,module,Magento_Paypal
-Checkout Cart Page,Checkout Cart Page,module,Magento_Paypal
+Checkout Cart Page,Carrito de pago,module,Magento_Paypal
 Basic Settings - PayPal Express Checkout,Basic Settings - PayPal Express Checkout,module,Magento_Paypal
 "It is recommended to set this value to ""PayPal"" per store views.","It is recommended to set this value to ""PayPal"" per store views.",module,Magento_Paypal
 Payment Action,Payment Action,module,Paypal_BraintreeCore
