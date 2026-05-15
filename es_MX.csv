@@ -13686,7 +13686,7 @@ Choose if a query to Algolia is done by the backend for SEO when instant search 
                             <br><br>
                             <span style=""font-size: 30px; color: #D83900; position: relative; top: 6px;"">&#9888;</span> Enabling instant search can potentially break your design, some work will be required to have a good integration into your theme
                             products.",module,Algolia_AlgoliaSearch
-"If set to Yes, the seach box will display a search-as-you-type drop-down menu. It requires your theme to expose a <code>top.search</code> and <code>content</code> block.","Si es Sí, muestra sugerencias",module,Algolia_AlgoliaSearch
+"If set to Yes, the seach box will display a search-as-you-type drop-down menu. It requires your theme to expose a <code>top.search</code> and <code>content</code> block.","Si se establece en Sí, el cuadro de búsqueda mostrará un menú desplegable de búsqueda mientras escribes. Requiere que tu tema exponga un bloque <code>top.search</code> y <code>content</code>.",module,Algolia_AlgoliaSearch
 If you don't have the top.search block you can specify the selector of your search input here to use it. Default value is .algolia-search-input,"Si no tienes top.search, indica el selector",module,Algolia_AlgoliaSearch
 "If you have large amount of synonyms (appr. more than hundred), you don't have to fill it into inputs above and you can upload a JSON file with synonyms instead.
                             The documentation with the file structure can be found <a href=""https://www.algolia.com/doc/relevance/synonyms#synonyms"" target=""_blank"">here</a>.<br><br>
