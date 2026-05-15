@@ -2437,15 +2437,15 @@ The attribute can't be saved.,El atributo no se puede guardar.,module,Magento_Ea
 Could not save Tier Prices,No se pudieron guardar precios por volumen,module,Magento_Catalog
 Could not replace Tier Prices,No se pudieron reemplazar precios por volumen,module,Magento_Catalog
 Could not delete Tier Prices,No se pudieron borrar precios por volumen,module,Magento_Catalog
-"Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",SKU inválido = %SKU.,module,Magento_Catalog
-"Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",Precio inválido = %price.,module,Magento_Catalog
-"Invalid attribute Price Type = %priceType. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",Tipo de precio inválido = %priceType.,module,Magento_Catalog
-"Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",Cantidad inválida = %qty.,module,Magento_Catalog
-"Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",Website inválido = %websiteId.,module,Magento_Catalog
-"We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",Duplicado detectado.,module,Magento_Catalog
-"No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",No existe ese grupo.,module,Magento_Catalog
+"Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Atributo inválido SKU = %SKU. ID de fila: SKU = %SKU, ID del sitio web: %websiteId, Grupo de clientes: %customerGroup, Cantidad: %qty.",module,Magento_Catalog
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Atributo inválido Precio = %price. ID de fila: SKU = %SKU, ID del sitio web: %websiteId, Grupo de clientes: %customerGroup, Cantidad: %qty.",module,Magento_Catalog
+"Invalid attribute Price Type = %priceType. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Atributo inválido Tipo de precio = %priceType. ID de fila: SKU = %SKU, ID del sitio web: %websiteId, Grupo de clientes: %customerGroup, Cantidad: %qty.",module,Magento_Catalog
+"Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Atributo inválido Cantidad = %qty. ID de fila: SKU = %SKU, ID del sitio web: %websiteId, Grupo de clientes: %customerGroup, Cantidad: %qty.",module,Magento_Catalog
+"Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Atributo inválido ID del sitio web = %websiteId. ID de fila: SKU = %SKU, ID del sitio web: %websiteId, Grupo de clientes: %customerGroup, Cantidad: %qty.",module,Magento_Catalog
+"We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Encontramos un sitio web, precio por volumen, grupo de clientes y cantidad duplicados: Grupo de clientes = %customerGroup, ID del sitio web = %websiteId, Cantidad = %qty. ID de fila: SKU = %SKU, ID del sitio web: %websiteId, Grupo de clientes: %customerGroup, Cantidad: %qty.",module,Magento_Catalog
+"No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","No existe una entidad con Grupo de clientes = %customerGroup. ID de fila: SKU = %SKU, ID del sitio web: %websiteId, Grupo de clientes: %customerGroup, Cantidad: %qty.",module,Magento_Catalog
 Tier price is unavailable for this product.,No hay precio por volumen.,module,Magento_Catalog
-"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3",Sin precio por grupo.,module,Magento_Catalog
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","El producto no tiene precio de grupo con estos datos: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
 The tier_price data is invalid. Verify the data and try again.,Datos de precio por volumen inválidos.,module,Magento_Catalog
 The group price couldn't be saved.,No se pudo guardar el precio por grupo.,module,Magento_Catalog
 The data was invalid. Verify the data and try again.,Los datos no eran válidos. Verifique los datos y vuelva a intentarlo.,module,Magento_Catalog
@@ -2495,10 +2495,10 @@ HTML is invalid,HTML is invalid,module,Magento_Catalog
 fl,fl,module,Magento_Catalog
 Unable to write file into directory product/cache. Access forbidden.,Unable to write file into directory product/cache. Access forbidden.,module,Magento_ThemeAdminhtmlBackend
 Cannot delete non-empty dir.,Cannot delete non-empty dir.,module,Magento_Catalog
-"The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",El producto solicitado no existe.,module,Magento_Catalog
-"Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",Precio inválido = %price.,module,Magento_Catalog
-"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",Tienda no encontrada.,module,Magento_Catalog
-"Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",Atributo inválido = %priceTo.,module,Magento_Catalog
+"The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","El producto solicitado no existe. Verifica el producto e inténtalo de nuevo. ID de fila: SKU = %SKU, ID de tienda: %storeId, Precio desde: %priceFrom, Precio hasta: %priceTo.",module,Magento_Catalog
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Atributo inválido Precio = %price. ID de fila: SKU = %SKU, ID de tienda: %storeId, Precio desde: %priceFrom, Precio hasta: %priceTo.",module,Magento_Catalog
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","No se encontró la tienda solicitada. ID de fila: SKU = %SKU, ID de tienda: %storeId, Precio desde: %priceFrom, Precio hasta: %priceTo.",module,Magento_Catalog
+"Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Atributo inválido %label = %priceTo. ID de fila: SKU = %SKU, ID de tienda: %storeId, Precio desde: %priceFrom, Precio hasta: %priceTo.",module,Magento_Catalog
 Lock wait timeout,Tiempo de espera de bloqueo,module,Magento_Catalog
 123,123,module,Magento_Catalog
 Images,Imágenes,module,Magento_ConfigurableProduct
@@ -7636,7 +7636,7 @@ Edit Store Design Change,Editar el cambio de diseño de la tienda,module,Magento
 You saved the design change.,Se guardó el cambio de diseño.,module,Magento_Backend
 The database was backed up.,La base de datos fue respaldada.,module,Magento_Backend
 We can't create a backup right now. Please try again later.,"No se puede crear una copia de seguridad ahora. Por favor, inténtelo más tarde.",module,Magento_Backend
-"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Eliminar %1 no borrará la información asociada (p. ej. categorías, productos, etc.), pero no se podrá restaurar. Se recomienda respaldar la base de datos antes de eliminar %1.",module,Magento_Backend
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Eliminar un %1 no eliminará la información asociada con el %1 (p. ej., categorías, productos, etc.), pero el %1 no podrá restaurarse. Se sugiere crear una copia de seguridad de la base de datos antes de eliminar el %1.",module,Magento_Backend
 Something went wrong. Please try again.,"Algo salió mal. Por favor, inténtelo de nuevo.",module,Magento_Backend
 This store cannot be deleted.,No se puede eliminar esta tienda.,module,Magento_Backend
 You deleted the store.,Eliminaste la tienda.,module,Magento_Backend
